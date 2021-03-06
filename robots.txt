@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Allow: /posts/
+Allow: /archive/
+
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /lib/
+Disallow: /categories/
+Disallow: /tags/
+Disallow: /page/
+Disallow: /links/
+Disallow: /en/
+Disallow: /ko/
+
+Sitemap: https://wendao.cyou/zh/sitemap.xml

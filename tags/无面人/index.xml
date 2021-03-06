@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>无面人 on 首页</title>
+    <link>https://wendao.cyou/tags/%E6%97%A0%E9%9D%A2%E4%BA%BA/</link>
+    <description>Recent content in 无面人 on 首页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>ufoseven@protonmail.com (幽浮七号)</managingEditor>
+    <webMaster>ufoseven@protonmail.com (幽浮七号)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 17 Apr 2017 22:00:27 +0800</lastBuildDate>
+    
+        <atom:link href="https://wendao.cyou/tags/%E6%97%A0%E9%9D%A2%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>面具</title>
+        <link>https://wendao.cyou/posts/mask/</link>
+        <pubDate>Mon, 17 Apr 2017 22:00:27 +0800</pubDate>
+        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        <atom:modified>Mon, 17 Apr 2017 22:00:27 +0800</atom:modified>
+        <guid>https://wendao.cyou/posts/mask/</guid>
+        <description>我有很多张面具， 却没有一张脸， 我的面目是一片空白。 我看得清别人的面目， 却看不清自己。 正如我的记忆， 遥远一点就只剩一片空白。 我看着面前不同的面</description>
+        <content:encoded>&lt;p&gt;我有很多张面具，&lt;br /&gt;
+却没有一张脸，&lt;br /&gt;
+我的面目是一片空白。&lt;/p&gt;
+&lt;p&gt;我看得清别人的面目，&lt;br /&gt;
+却看不清自己。&lt;/p&gt;
+&lt;p&gt;正如我的记忆，&lt;br /&gt;
+遥远一点就只剩一片空白。&lt;/p&gt;
+&lt;p&gt;我看着面前不同的面具，&lt;br /&gt;
+每一个都像我，&lt;br /&gt;
+每一个都很陌生。&lt;/p&gt;
+&lt;p&gt;我必须选择出一具，&lt;br /&gt;
+戴上它去见我爱的人。&lt;/p&gt;
+&lt;p&gt;我爱的人在遥远的南国，&lt;br /&gt;
+我们之间隔着辽阔的大海。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://wendao.cyou/gallery/other/no-face-man.png&#34; alt=&#34;宫崎骏动画《千与千寻》截图&#34; title=&#34;no-face-man.png&#34; /&gt;&lt;/p&gt;
+</content:encoded>
+        <dc:creator>幽浮七号</dc:creator>
+        <media:content url="https://wendao.cyougallery/other/no-face-man.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>诗歌</category>
+            
+          
+            
+              <category>宫崎骏</category>
+            
+          
+            
+              <category>千与千寻</category>
+            
+          
+            
+              <category>无面人</category>
+            
+          
+        
+        
+          
+            
+              <category>偶尔写写诗</category>
+            
+          
+        
+        
+          
+            
+              <category>诗歌集</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

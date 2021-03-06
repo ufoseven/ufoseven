@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Mellow on 首页</title>
+    <link>https://wendao.cyou/tags/mellow/</link>
+    <description>Recent content in Mellow on 首页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>ufoseven@protonmail.com (幽浮七号)</managingEditor>
+    <webMaster>ufoseven@protonmail.com (幽浮七号)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 04 Feb 2020 19:50:25 +0800</lastBuildDate>
+    
+        <atom:link href="https://wendao.cyou/tags/mellow/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>解决 Mellow 在 Manjaro 中开机自启后无法自动连接的问题</title>
+        <link>https://wendao.cyou/posts/mellow-failed-to-connect-automatically-after-manjaro-booting/</link>
+        <pubDate>Tue, 04 Feb 2020 19:50:25 +0800</pubDate>
+        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        <atom:modified>Tue, 04 Feb 2020 19:50:25 +0800</atom:modified>
+        <guid>https://wendao.cyou/posts/mellow-failed-to-connect-automatically-after-manjaro-booting/</guid>
+        <description>最近在 Manjaro Linux 中安装了透明代理工具 Mellow，把 Mellow 添加到开机自启列表后，在设置中勾选 Auto Launch 和 Auto Connect ，然后开机重启，Mellow 无法自动连接，并弹出</description>
+        <content:encoded>&lt;p&gt;最近在 Manjaro Linux 中安装了透明代理工具 Mellow，把 Mellow 添加到开机自启列表后，在设置中勾选 Auto Launch 和 Auto Connect ，然后开机重启，Mellow 无法自动连接，并弹出如下提示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Failed to find the default gateway，please ensure your network is reachable. You may try to restart/reconnect the network/wifi.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我是通过如下设置解决问题的：右击任务栏中的网络连接图标,，点击“&lt;strong&gt;配置网络连接&lt;/strong&gt;”，在有线连接或WiFi 的安全选项中把“&lt;strong&gt;仅对当前用户保存密码（加密）&lt;/strong&gt;”改成“&lt;strong&gt;为所有用户保存密码（不加密）&lt;/strong&gt;”。然后重启，Mellow 就能自动连接，不再弹出上述提示了。&lt;/p&gt;
+</content:encoded>
+        <dc:creator>幽浮七号</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>杂记</category>
+            
+          
+            
+              <category>Mellow</category>
+            
+          
+            
+              <category>Manjaro</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>IT相关</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
