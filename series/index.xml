@@ -14,11 +14,29 @@
     <managingEditor>ufoseven@protonmail.com (幽浮七号)</managingEditor>
     <webMaster>ufoseven@protonmail.com (幽浮七号)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 11 Jan 2021 23:32:20 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 28 Feb 2021 20:32:22 +0800</lastBuildDate>
     
         <atom:link href="https://wendao.cyou/series/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>闻道集</title>
+        <link>https://wendao.cyou/series/%E9%97%BB%E9%81%93%E9%9B%86/</link>
+        <pubDate>Sun, 28 Feb 2021 20:32:22 +0800</pubDate>
+        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
+        <guid>https://wendao.cyou/series/%E9%97%BB%E9%81%93%E9%9B%86/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>幽浮七号</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>小说集</title>
@@ -45,24 +63,6 @@
         <author>ufoseven@protonmail.com (幽浮七号)</author>
         
         <guid>https://wendao.cyou/series/%E8%AF%97%E6%AD%8C%E9%9B%86/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>闻道集</title>
-        <link>https://wendao.cyou/series/%E9%97%BB%E9%81%93%E9%9B%86/</link>
-        <pubDate>Thu, 24 Dec 2020 13:43:26 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
-        
-        <guid>https://wendao.cyou/series/%E9%97%BB%E9%81%93%E9%9B%86/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>幽浮七号</dc:creator>
