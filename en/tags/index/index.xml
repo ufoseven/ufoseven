@@ -11,8 +11,6 @@
     <description>Recent content in index on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>ufoseven@protonmail.com (幽浮七号)</managingEditor>
-    <webMaster>ufoseven@protonmail.com (幽浮七号)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
         <atom:link href="https://wendao.cyou/en/tags/index/index.xml" rel="self" type="application/rss+xml" />
@@ -23,7 +21,7 @@
         <title>Posts</title>
         <link>https://wendao.cyou/en/posts/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         
         <guid>https://wendao.cyou/en/posts/</guid>
         <description></description>

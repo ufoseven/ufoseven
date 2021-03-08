@@ -11,8 +11,6 @@
     <description>Recent content in Typecho on 首页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>ufoseven@protonmail.com (幽浮七号)</managingEditor>
-    <webMaster>ufoseven@protonmail.com (幽浮七号)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 17 Dec 2018 11:50:35 +0800</lastBuildDate>
     
@@ -24,7 +22,7 @@
         <title>安装并迁移到 Typecho 遇到的一些问题及解决方法</title>
         <link>https://wendao.cyou/posts/install-and-migrate-to-typecho/</link>
         <pubDate>Mon, 17 Dec 2018 11:50:35 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Mon, 17 Dec 2018 11:50:35 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/install-and-migrate-to-typecho/</guid>
         <description>最近把博客从 WordPress 迁移到 Typecho 平台，遇到的一些问题及解决方法记录如下： 1. 安装时卡在第2步初始化配置页面 （1）卡在数据库连接页面，提示“对不起，无法连</description>

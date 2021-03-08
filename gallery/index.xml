@@ -11,8 +11,6 @@
     <description>Recent content in Galleries on 首页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>ufoseven@protonmail.com (幽浮七号)</managingEditor>
-    <webMaster>ufoseven@protonmail.com (幽浮七号)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 15 Mar 2006 10:20:16 +0800</lastBuildDate>
     
@@ -24,7 +22,7 @@
         <title>其它</title>
         <link>https://wendao.cyou/gallery/other/</link>
         <pubDate>Wed, 15 Mar 2006 10:20:16 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Wed, 15 Mar 2006 10:20:16 +0800</atom:modified>
         <guid>https://wendao.cyou/gallery/other/</guid>
         <description></description>
@@ -42,7 +40,7 @@
         <title>漫画</title>
         <link>https://wendao.cyou/gallery/cartoon/</link>
         <pubDate>Wed, 15 Mar 2006 10:20:16 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Wed, 15 Mar 2006 10:20:16 +0800</atom:modified>
         <guid>https://wendao.cyou/gallery/cartoon/</guid>
         <description></description>
@@ -60,7 +58,7 @@
         <title>照片</title>
         <link>https://wendao.cyou/gallery/photo/</link>
         <pubDate>Wed, 15 Mar 2006 10:20:16 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Wed, 15 Mar 2006 10:20:16 +0800</atom:modified>
         <guid>https://wendao.cyou/gallery/photo/</guid>
         <description></description>

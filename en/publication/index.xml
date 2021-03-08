@@ -11,8 +11,6 @@
     <description>Recent content in Publications on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>ufoseven@protonmail.com (幽浮七号)</managingEditor>
-    <webMaster>ufoseven@protonmail.com (幽浮七号)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
@@ -24,7 +22,7 @@
         <title>article</title>
         <link>https://wendao.cyou/en/publication/article/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>https://wendao.cyou/en/publication/article/</guid>
         <description></description>
@@ -42,7 +40,7 @@
         <title>book</title>
         <link>https://wendao.cyou/en/publication/book/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>https://wendao.cyou/en/publication/book/</guid>
         <description></description>
@@ -60,7 +58,7 @@
         <title>misc</title>
         <link>https://wendao.cyou/en/publication/misc/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>https://wendao.cyou/en/publication/misc/</guid>
         <description></description>

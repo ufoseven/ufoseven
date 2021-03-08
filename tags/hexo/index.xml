@@ -11,8 +11,6 @@
     <description>Recent content in Hexo on 首页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>ufoseven@protonmail.com (幽浮七号)</managingEditor>
-    <webMaster>ufoseven@protonmail.com (幽浮七号)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 06 Sep 2019 12:40:38 +0800</lastBuildDate>
     
@@ -24,7 +22,7 @@
         <title>Hexo 如何删除 git commit 历史记录</title>
         <link>https://wendao.cyou/posts/hexo-delete-git-commit-history/</link>
         <pubDate>Fri, 06 Sep 2019 12:40:38 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Fri, 06 Sep 2019 12:40:38 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/hexo-delete-git-commit-history/</guid>
         <description>有时 Hexo 博客发布之后，会对博客内容再进行修改，如果不想要别人看到 Hexo 博客的修改历史，只保留最后的版本，那我们可以把以前的 git commit 历史记录清理掉，这样</description>

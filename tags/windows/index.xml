@@ -11,8 +11,6 @@
     <description>Recent content in Windows on 首页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>ufoseven@protonmail.com (幽浮七号)</managingEditor>
-    <webMaster>ufoseven@protonmail.com (幽浮七号)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 09 Apr 2019 12:00:07 +0800</lastBuildDate>
     
@@ -24,7 +22,7 @@
         <title>解决 Windows Thin PC 系统中 Firefox 和 IE 播放音频和视频的问题</title>
         <link>https://wendao.cyou/posts/thin-pc-firefox-ie-audio-video/</link>
         <pubDate>Tue, 09 Apr 2019 12:00:07 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Tue, 09 Apr 2019 12:00:07 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/thin-pc-firefox-ie-audio-video/</guid>
         <description>今天为我的 Windows Thin PC 系统安装了一些功能组件，解决了一系列问题。 使用 Thin PC 一段时间了，有一个问题一直困扰着我，我的 Thin PC 上的 Firefox / IE11 无法播放一些 HTML5 音频和</description>
@@ -91,7 +89,7 @@
         <title>极端体验之1G内存装Win7</title>
         <link>https://wendao.cyou/posts/thin-pc/</link>
         <pubDate>Fri, 21 Sep 2018 12:28:52 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Fri, 21 Sep 2018 12:28:52 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/thin-pc/</guid>
         <description>前几天把十年前只有 1G 内存的 XP 本装上了 Win7 精简版 Windows Thin PC （微软官方出品），装完后磁盘占用不到 4G，内存 500M 多一点，感觉要比原来的 XP 系统流畅，最重要的</description>

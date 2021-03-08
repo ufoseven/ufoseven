@@ -11,8 +11,6 @@
     <description>Recent content in Linux on 首页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>ufoseven@protonmail.com (幽浮七号)</managingEditor>
-    <webMaster>ufoseven@protonmail.com (幽浮七号)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 04 Feb 2020 19:50:25 +0800</lastBuildDate>
     
@@ -24,7 +22,7 @@
         <title>解决 Mellow 在 Manjaro 中开机自启后无法自动连接的问题</title>
         <link>https://wendao.cyou/posts/mellow-failed-to-connect-automatically-after-manjaro-booting/</link>
         <pubDate>Tue, 04 Feb 2020 19:50:25 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Tue, 04 Feb 2020 19:50:25 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/mellow-failed-to-connect-automatically-after-manjaro-booting/</guid>
         <description>最近在 Manjaro Linux 中安装了透明代理工具 Mellow，把 Mellow 添加到开机自启列表后，在设置中勾选 Auto Launch 和 Auto Connect ，然后开机重启，Mellow 无法自动连接，并弹出</description>

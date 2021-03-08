@@ -11,8 +11,6 @@
     <description>Recent content in 杂记 on 首页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>ufoseven@protonmail.com (幽浮七号)</managingEditor>
-    <webMaster>ufoseven@protonmail.com (幽浮七号)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 28 Feb 2020 09:04:50 +0800</lastBuildDate>
     
@@ -24,7 +22,7 @@
         <title>春雪</title>
         <link>https://wendao.cyou/posts/spring-snow/</link>
         <pubDate>Fri, 28 Feb 2020 09:04:50 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Fri, 28 Feb 2020 09:04:50 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/spring-snow/</guid>
         <description>&lt;p&gt;看书上网一整夜没睡，早晨推开院门，发现又下雪了。这个时节的乡下，本该下作雨的雪，一边飘落一边融化，寒冷中带着温暖，像极了此刻我的心境。&lt;/p&gt;</description>
@@ -63,7 +61,7 @@
         <title>解决 Mellow 在 Manjaro 中开机自启后无法自动连接的问题</title>
         <link>https://wendao.cyou/posts/mellow-failed-to-connect-automatically-after-manjaro-booting/</link>
         <pubDate>Tue, 04 Feb 2020 19:50:25 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Tue, 04 Feb 2020 19:50:25 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/mellow-failed-to-connect-automatically-after-manjaro-booting/</guid>
         <description>最近在 Manjaro Linux 中安装了透明代理工具 Mellow，把 Mellow 添加到开机自启列表后，在设置中勾选 Auto Launch 和 Auto Connect ，然后开机重启，Mellow 无法自动连接，并弹出</description>
@@ -110,7 +108,7 @@
         <title>我</title>
         <link>https://wendao.cyou/posts/i/</link>
         <pubDate>Fri, 31 Jan 2020 09:44:24 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Fri, 31 Jan 2020 09:44:24 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/i/</guid>
         <description>笛卡尔说，我思故我在。一只狗对自己说，我闻到了自己的尿味，所以我是存在的，但你不能通过我的尿迹来定义我，因为我并不是我的历史，我也不是我的身</description>
@@ -157,7 +155,7 @@
         <title>去年今日</title>
         <link>https://wendao.cyou/posts/this-day-last-year/</link>
         <pubDate>Wed, 11 Dec 2019 10:20:11 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Wed, 11 Dec 2019 10:20:11 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/this-day-last-year/</guid>
         <description>今年冬天一点也不冷，前几天还下雨来着。无聊时翻过去的照片，发现去年的今天下了一场小雪，记得早晨推开院门，眼前白茫茫一片，雪地上有狗和猫留下的</description>
@@ -191,7 +189,7 @@
         <title>一种幸福</title>
         <link>https://wendao.cyou/posts/a-kind-of-happiness/</link>
         <pubDate>Fri, 29 Nov 2019 14:26:36 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Fri, 29 Nov 2019 14:26:36 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/a-kind-of-happiness/</guid>
         <description>冬日的上午，阳光很好，路边的树木光秃秃的，我乘公交车去镇上取快递，车上散坐着两三个人，我坐在靠窗的位置，脑子里在想着前一天物理书中读到的引力</description>
@@ -222,7 +220,7 @@
         <title>Hexo 如何删除 git commit 历史记录</title>
         <link>https://wendao.cyou/posts/hexo-delete-git-commit-history/</link>
         <pubDate>Fri, 06 Sep 2019 12:40:38 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Fri, 06 Sep 2019 12:40:38 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/hexo-delete-git-commit-history/</guid>
         <description>有时 Hexo 博客发布之后，会对博客内容再进行修改，如果不想要别人看到 Hexo 博客的修改历史，只保留最后的版本，那我们可以把以前的 git commit 历史记录清理掉，这样</description>
@@ -277,7 +275,7 @@
         <title>解决 Windows Thin PC 系统中 Firefox 和 IE 播放音频和视频的问题</title>
         <link>https://wendao.cyou/posts/thin-pc-firefox-ie-audio-video/</link>
         <pubDate>Tue, 09 Apr 2019 12:00:07 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Tue, 09 Apr 2019 12:00:07 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/thin-pc-firefox-ie-audio-video/</guid>
         <description>今天为我的 Windows Thin PC 系统安装了一些功能组件，解决了一系列问题。 使用 Thin PC 一段时间了，有一个问题一直困扰着我，我的 Thin PC 上的 Firefox / IE11 无法播放一些 HTML5 音频和</description>
@@ -344,7 +342,7 @@
         <title>29年的爱情故事</title>
         <link>https://wendao.cyou/posts/29-year-love-story/</link>
         <pubDate>Sun, 24 Feb 2019 03:35:52 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Sun, 24 Feb 2019 03:35:52 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/29-year-love-story/</guid>
         <description>据说这是《北京晚报》上的一则寻人启事。看完后不禁感慨，这世上有一种人不是活在现实中，而是活在自己的内心，犹如活在梦中。 英国哲学家边沁则是另一</description>
@@ -392,7 +390,7 @@
         <title>安装并迁移到 Typecho 遇到的一些问题及解决方法</title>
         <link>https://wendao.cyou/posts/install-and-migrate-to-typecho/</link>
         <pubDate>Mon, 17 Dec 2018 11:50:35 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Mon, 17 Dec 2018 11:50:35 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/install-and-migrate-to-typecho/</guid>
         <description>最近把博客从 WordPress 迁移到 Typecho 平台，遇到的一些问题及解决方法记录如下： 1. 安装时卡在第2步初始化配置页面 （1）卡在数据库连接页面，提示“对不起，无法连</description>
@@ -472,7 +470,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
         <title>WordPress 使用 Cloudflare 遇到的几个问题及解决方法</title>
         <link>https://wendao.cyou/posts/wordpress-cloudflare-cdn-ssl/</link>
         <pubDate>Sat, 22 Sep 2018 15:01:21 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Sat, 22 Sep 2018 15:01:21 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/wordpress-cloudflare-cdn-ssl/</guid>
         <description>最近使用 Cloudflare 为WordPress博客添加了免费 CDN 和 SSL 服务，在此过程中遇到的一些问题和解决方法记录如下。 Cloudflare Flexible SSL 开启 Always use HTTPS 后导致 WordPress 网站无限循环重定</description>
@@ -532,7 +530,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
         <title>极端体验之1G内存装Win7</title>
         <link>https://wendao.cyou/posts/thin-pc/</link>
         <pubDate>Fri, 21 Sep 2018 12:28:52 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Fri, 21 Sep 2018 12:28:52 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/thin-pc/</guid>
         <description>前几天把十年前只有 1G 内存的 XP 本装上了 Win7 精简版 Windows Thin PC （微软官方出品），装完后磁盘占用不到 4G，内存 500M 多一点，感觉要比原来的 XP 系统流畅，最重要的</description>
@@ -574,7 +572,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
         <title>道路</title>
         <link>https://wendao.cyou/posts/roads/</link>
         <pubDate>Mon, 01 Jan 2018 19:30:36 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Mon, 01 Jan 2018 19:30:36 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/roads/</guid>
         <description>把幽默感去掉以后，从过去的岁月里，我得到了一个结论，那就是人活在世界上，不可以有偏差；而且多少要费点劲儿，才能把自己保持在理性的轨道上。——</description>
@@ -619,7 +617,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
         <title>凌晨2点的街道</title>
         <link>https://wendao.cyou/posts/2am-street/</link>
         <pubDate>Thu, 10 Nov 2016 01:35:08 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Thu, 10 Nov 2016 01:35:08 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/2am-street/</guid>
         <description>凌晨2点的街道，空无一人，路灯静静地立在路边，散发着昏黄的光，一辆灵车缓缓驶过，这个情景像极了此刻我的内心。它不是难过，也不是悲伤，而是麻木</description>
@@ -654,7 +652,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
         <title>我只是一个占据一定时空的物体</title>
         <link>https://wendao.cyou/posts/i-am-just-an-object-that-occupies-certain-time-and-space/</link>
         <pubDate>Thu, 14 Jun 2012 23:10:52 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Thu, 14 Jun 2012 23:10:52 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/i-am-just-an-object-that-occupies-certain-time-and-space/</guid>
         <description>今天晚上有雷雨，听着外面隆隆的雷声和沙沙的雨声，我坐在电脑前，不知道要干点什么。这就像演一出戏剧，舞台布景、灯光观众等都已准备好，就等着演员</description>
@@ -685,7 +683,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
         <title>邻居家的鸡死了</title>
         <link>https://wendao.cyou/posts/neighbors-chicken-died/</link>
         <pubDate>Mon, 28 May 2012 13:42:22 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Mon, 28 May 2012 13:42:22 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/neighbors-chicken-died/</guid>
         <description>天空飘过几座像小山一样的乌云，远处传来隆隆的雷声，燕子在高空盘旋。每次雷雨前我的心情都会莫名地好。今天中午传来消息说，邻居家的鸡被人打死了，</description>
@@ -716,7 +714,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
         <title>快乐</title>
         <link>https://wendao.cyou/posts/happiness/</link>
         <pubDate>Mon, 07 May 2012 23:30:15 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Mon, 07 May 2012 23:30:15 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/happiness/</guid>
         <description>夏天农村乡下的夜晚，一轮圆月挂在高高的天空，月光给屋瓦和各种植物罩上一层薄薄的光亮，我站在门口看着圆圆的月亮，夏夜的风习习吹来，这个时候什么</description>
@@ -747,7 +745,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
         <title>雨夜</title>
         <link>https://wendao.cyou/posts/rainy-night/</link>
         <pubDate>Mon, 12 Sep 2011 13:00:43 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Mon, 12 Sep 2011 13:00:43 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/rainy-night/</guid>
         <description>现在是晚上，外面下雨了。我喜欢这样下雨的夜晚，它让我有一种幻觉，让我觉得这一切都是暂时的，我只是一个暂时路过这里等雨停的旅客而已。 我喜欢听着</description>
@@ -779,7 +777,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
         <title>卡夫卡的幽默</title>
         <link>https://wendao.cyou/posts/humor-of-kafka/</link>
         <pubDate>Fri, 09 Sep 2011 14:30:43 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Fri, 09 Sep 2011 14:30:43 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/humor-of-kafka/</guid>
         <description>昨晚读到卡夫卡《同醉汉的对话》中有这么一段： 他们就这样说着，街道上吵得震耳欲聋，烟囱里的烟冒出来，在房屋与房屋之间落下。事情就是这样。并且或</description>
@@ -823,7 +821,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
         <title>康德之时间与空间</title>
         <link>https://wendao.cyou/posts/the-time-and-space-of-kant/</link>
         <pubDate>Sat, 13 Aug 2011 12:33:25 +0800</pubDate>
-        <author>ufoseven@protonmail.com (幽浮七号)</author>
+        
         <atom:modified>Sat, 13 Aug 2011 12:33:25 +0800</atom:modified>
         <guid>https://wendao.cyou/posts/the-time-and-space-of-kant/</guid>
         <description>最近读《苏菲的世界》，读到康德那部分时，觉得有点不能理解。 康德认为，“我们心灵中的时间与空间这两种形式先于一切经验。换句话说，我们在还没有经</description>
