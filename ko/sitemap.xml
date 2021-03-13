@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://wendao.cyou/ko/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
@@ -20,9 +19,7 @@
                 hreflang="ko"
                 href="https://wendao.cyou/ko/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wendao.cyou/ko/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
@@ -40,9 +37,7 @@
                 hreflang="ko"
                 href="https://wendao.cyou/ko/archive/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wendao.cyou/ko/about/</loc>
     <lastmod>2019-10-09T11:44:14+09:00</lastmod>
     <xhtml:link
@@ -60,9 +55,7 @@
                 hreflang="ko"
                 href="https://wendao.cyou/ko/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wendao.cyou/ko/gallery/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
     <xhtml:link
@@ -80,9 +73,7 @@
                 hreflang="ko"
                 href="https://wendao.cyou/ko/gallery/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wendao.cyou/ko/gallery/photo/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
     <xhtml:link
@@ -100,9 +91,7 @@
                 hreflang="ko"
                 href="https://wendao.cyou/ko/gallery/photo/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wendao.cyou/ko/gallery/cartoon/</loc>
     <lastmod>2018-10-11T10:20:16+09:00</lastmod>
     <xhtml:link
@@ -120,9 +109,7 @@
                 hreflang="ko"
                 href="https://wendao.cyou/ko/gallery/cartoon/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wendao.cyou/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -139,9 +126,7 @@
                 hreflang="ko"
                 href="https://wendao.cyou/ko/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wendao.cyou/ko/hitokoto/</loc>
     <xhtml:link
                 rel="alternate"
@@ -158,9 +143,7 @@
                 hreflang="ko"
                 href="https://wendao.cyou/ko/hitokoto/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wendao.cyou/ko/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
@@ -172,9 +155,7 @@
                 hreflang="ko"
                 href="https://wendao.cyou/ko/tags/index/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wendao.cyou/ko/posts/</loc>
     <xhtml:link
                 rel="alternate"
@@ -191,9 +172,7 @@
                 hreflang="ko"
                 href="https://wendao.cyou/ko/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wendao.cyou/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -210,9 +189,7 @@
                 hreflang="ko"
                 href="https://wendao.cyou/ko/series/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://wendao.cyou/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -230,5 +207,4 @@
                 href="https://wendao.cyou/ko/tags/"
                 />
   </url>
-  
 </urlset>
