@@ -6,25 +6,25 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Typecho on 闻道之路</title>
-    <link>https://wendao.cyou/tags/typecho/</link>
-    <description>Recent content in Typecho on 闻道之路</description>
+    <title>Typecho on 幽浮七号</title>
+    <link>https://ufoseven.github.io/tags/typecho/</link>
+    <description>Recent content in Typecho on 幽浮七号</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 17 Dec 2018 11:50:35 +0800</lastBuildDate>
     
-        <atom:link href="https://wendao.cyou/tags/typecho/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ufoseven.github.io/tags/typecho/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>安装并迁移到 Typecho 遇到的一些问题及解决方法</title>
-        <link>https://wendao.cyou/posts/install-and-migrate-to-typecho/</link>
+        <link>https://ufoseven.github.io/posts/install-and-migrate-to-typecho/</link>
         <pubDate>Mon, 17 Dec 2018 11:50:35 +0800</pubDate>
         
         <atom:modified>Mon, 17 Dec 2018 11:50:35 +0800</atom:modified>
-        <guid>https://wendao.cyou/posts/install-and-migrate-to-typecho/</guid>
+        <guid>https://ufoseven.github.io/posts/install-and-migrate-to-typecho/</guid>
         <description>最近把博客从 WordPress 迁移到 Typecho 平台，遇到的一些问题及解决方法记录如下： 1. 安装时卡在第2步初始化配置页面 （1）卡在数据库连接页面，提示“对不起，无法连</description>
         <content:encoded>&lt;p&gt;最近把博客从 WordPress 迁移到 Typecho 平台，遇到的一些问题及解决方法记录如下：&lt;/p&gt;
 &lt;h4 id=&#34;1-安装时卡在第2步初始化配置页面&#34;&gt;&lt;strong&gt;1. 安装时卡在第2步初始化配置页面&lt;/strong&gt;&lt;/h4&gt;
@@ -51,7 +51,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;这样后台管理页面就能打开了。&lt;/p&gt;
 &lt;p&gt;（2）添加 Cloudflare CDN 后，评论 IP 显示的是 Cloudflare CDN 的代理 IP 而不是访客真实 IP，显示访客真实 IP 的方法见这篇文章：&lt;a href=&#34;https://www.typecho.wiki/archives/typecho-configuring-cdn-to-get-visitors-real-ip.html&#34;&gt;Typecho 配置 CDN 后获取访客真实 IP&lt;/a&gt;。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
+        <dc:creator>七七</dc:creator>
         
         
         

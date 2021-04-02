@@ -7,28 +7,28 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Presentations on Hugo Zzo Theme</title>
-    <link>https://wendao.cyou/en/presentation/</link>
+    <link>https://ufoseven.github.io/en/presentation/</link>
     <description>Recent content in Presentations on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 30 Oct 2019 20:48:10 +0900</lastBuildDate>
     
-        <atom:link href="https://wendao.cyou/en/presentation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ufoseven.github.io/en/presentation/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Fourth</title>
-        <link>https://wendao.cyou/en/presentation/dir/fourth/</link>
+        <link>https://ufoseven.github.io/en/presentation/dir/fourth/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
         
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
-        <guid>https://wendao.cyou/en/presentation/dir/fourth/</guid>
+        <guid>https://ufoseven.github.io/en/presentation/dir/fourth/</guid>
         <description></description>
         <content:encoded></content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
-        <media:content url="https://wendao.cyouimages/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>七七</dc:creator>
+        <media:content url="https://ufoseven.github.ioimages/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -50,15 +50,15 @@
       
       <item>
         <title>Third</title>
-        <link>https://wendao.cyou/en/presentation/third/</link>
+        <link>https://ufoseven.github.io/en/presentation/third/</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
         
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
-        <guid>https://wendao.cyou/en/presentation/third/</guid>
+        <guid>https://ufoseven.github.io/en/presentation/third/</guid>
         <description></description>
         <content:encoded></content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
-        <media:content url="https://wendao.cyouimages/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>七七</dc:creator>
+        <media:content url="https://ufoseven.github.ioimages/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -80,15 +80,15 @@
       
       <item>
         <title>Second</title>
-        <link>https://wendao.cyou/en/presentation/second/</link>
+        <link>https://ufoseven.github.io/en/presentation/second/</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
         
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
-        <guid>https://wendao.cyou/en/presentation/second/</guid>
+        <guid>https://ufoseven.github.io/en/presentation/second/</guid>
         <description></description>
         <content:encoded></content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
-        <media:content url="https://wendao.cyouimages/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>七七</dc:creator>
+        <media:content url="https://ufoseven.github.ioimages/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -110,15 +110,15 @@
       
       <item>
         <title>First</title>
-        <link>https://wendao.cyou/en/presentation/first/</link>
+        <link>https://ufoseven.github.io/en/presentation/first/</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
         
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
-        <guid>https://wendao.cyou/en/presentation/first/</guid>
+        <guid>https://ufoseven.github.io/en/presentation/first/</guid>
         <description></description>
         <content:encoded></content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
-        <media:content url="https://wendao.cyouimages/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <dc:creator>七七</dc:creator>
+        <media:content url="https://ufoseven.github.ioimages/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

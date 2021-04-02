@@ -6,25 +6,25 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>IT相关 on 闻道之路</title>
-    <link>https://wendao.cyou/categories/it%E7%9B%B8%E5%85%B3/</link>
-    <description>Recent content in IT相关 on 闻道之路</description>
+    <title>IT相关 on 幽浮七号</title>
+    <link>https://ufoseven.github.io/categories/it%E7%9B%B8%E5%85%B3/</link>
+    <description>Recent content in IT相关 on 幽浮七号</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 04 Feb 2020 19:50:25 +0800</lastBuildDate>
     
-        <atom:link href="https://wendao.cyou/categories/it%E7%9B%B8%E5%85%B3/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ufoseven.github.io/categories/it%E7%9B%B8%E5%85%B3/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>解决 Mellow 在 Manjaro 中开机自启后无法自动连接的问题</title>
-        <link>https://wendao.cyou/posts/mellow-failed-to-connect-automatically-after-manjaro-booting/</link>
+        <link>https://ufoseven.github.io/posts/mellow-failed-to-connect-automatically-after-manjaro-booting/</link>
         <pubDate>Tue, 04 Feb 2020 19:50:25 +0800</pubDate>
         
         <atom:modified>Tue, 04 Feb 2020 19:50:25 +0800</atom:modified>
-        <guid>https://wendao.cyou/posts/mellow-failed-to-connect-automatically-after-manjaro-booting/</guid>
+        <guid>https://ufoseven.github.io/posts/mellow-failed-to-connect-automatically-after-manjaro-booting/</guid>
         <description>最近在 Manjaro Linux 中安装了透明代理工具 Mellow，把 Mellow 添加到开机自启列表后，在设置中勾选 Auto Launch 和 Auto Connect ，然后开机重启，Mellow 无法自动连接，并弹出</description>
         <content:encoded>&lt;p&gt;最近在 Manjaro Linux 中安装了透明代理工具 Mellow，把 Mellow 添加到开机自启列表后，在设置中勾选 Auto Launch 和 Auto Connect ，然后开机重启，Mellow 无法自动连接，并弹出如下提示：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -32,7 +32,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;我是通过如下设置解决问题的：右击任务栏中的网络连接图标,，点击“&lt;strong&gt;配置网络连接&lt;/strong&gt;”，在有线连接或WiFi 的安全选项中把“&lt;strong&gt;仅对当前用户保存密码（加密）&lt;/strong&gt;”改成“&lt;strong&gt;为所有用户保存密码（不加密）&lt;/strong&gt;”。然后重启，Mellow 就能自动连接，不再弹出上述提示了。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
+        <dc:creator>七七</dc:creator>
         
         
         
@@ -67,11 +67,11 @@
       
       <item>
         <title>Hexo 如何删除 git commit 历史记录</title>
-        <link>https://wendao.cyou/posts/hexo-delete-git-commit-history/</link>
+        <link>https://ufoseven.github.io/posts/hexo-delete-git-commit-history/</link>
         <pubDate>Fri, 06 Sep 2019 12:40:38 +0800</pubDate>
         
         <atom:modified>Fri, 06 Sep 2019 12:40:38 +0800</atom:modified>
-        <guid>https://wendao.cyou/posts/hexo-delete-git-commit-history/</guid>
+        <guid>https://ufoseven.github.io/posts/hexo-delete-git-commit-history/</guid>
         <description>有时 Hexo 博客发布之后，会对博客内容再进行修改，如果不想要别人看到 Hexo 博客的修改历史，只保留最后的版本，那我们可以把以前的 git commit 历史记录清理掉，这样</description>
         <content:encoded>&lt;p&gt;有时 Hexo 博客发布之后，会对博客内容再进行修改，如果不想要别人看到 Hexo 博客的修改历史，只保留最后的版本，那我们可以把以前的 git commit 历史记录清理掉，这样还可以减少占用的 Pages 空间。操作步骤如下：&lt;/p&gt;
 &lt;ol&gt;
@@ -85,7 +85,7 @@
 &lt;/ol&gt;
 &lt;pre&gt;&lt;code&gt;hexo d -g
 &lt;/code&gt;&lt;/pre&gt;</content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
+        <dc:creator>七七</dc:creator>
         
         
         
@@ -122,11 +122,11 @@
       
       <item>
         <title>解决 Windows Thin PC 系统中 Firefox 和 IE 播放音频和视频的问题</title>
-        <link>https://wendao.cyou/posts/thin-pc-firefox-ie-audio-video/</link>
+        <link>https://ufoseven.github.io/posts/thin-pc-firefox-ie-audio-video/</link>
         <pubDate>Tue, 09 Apr 2019 12:00:07 +0800</pubDate>
         
         <atom:modified>Tue, 09 Apr 2019 12:00:07 +0800</atom:modified>
-        <guid>https://wendao.cyou/posts/thin-pc-firefox-ie-audio-video/</guid>
+        <guid>https://ufoseven.github.io/posts/thin-pc-firefox-ie-audio-video/</guid>
         <description>今天为我的 Windows Thin PC 系统安装了一些功能组件，解决了一系列问题。 使用 Thin PC 一段时间了，有一个问题一直困扰着我，我的 Thin PC 上的 Firefox / IE11 无法播放一些 HTML5 音频和</description>
         <content:encoded>&lt;p&gt;今天为我的 &lt;a href=&#34;https://baike.baidu.com/item/Windows%20Thin%20PC&#34;&gt;Windows Thin PC&lt;/a&gt; 系统安装了一些功能组件，解决了一系列问题。&lt;/p&gt;
 &lt;p&gt;使用 Thin PC 一段时间了，有一个问题一直困扰着我，我的 Thin PC 上的 Firefox / IE11 无法播放一些 HTML5 音频和视频（但 Chrome 可以），比如，我博客上的 HTML5 音频标记为“&lt;strong&gt;错误：音频类型不受支持或文件路径无效&lt;/strong&gt;”，Twitter 上的视频则提示“&lt;strong&gt;我们无法在这个浏览器上播放视频，请尝试换用其它浏览器。&lt;/strong&gt;”然而 Youtube 上的视频则可以播放，奇怪的很。因为这个原因再加上 Firefox 在我这台 Thin PC 电脑上的速度不如 Chrome 快，所以一直在用 Chrome。然而最近发现 Firefox 升级后打开我博客的速度要比 Chrome 快（可是在另一台配置较高的 Win10 上则相反），因此打算在我的 Thin PC 电脑上主要使用 Firefox，于是经过一番查找终于找到了问题的症结所在： Windows Thin PC 没有安装相应的音频和视频组件。&lt;/p&gt;
@@ -150,7 +150,7 @@
 &lt;/ul&gt;
 &lt;p&gt;再安装&lt;a href=&#34;https://laod.cn/tools/adobe-flash-player-ax-np-pp-31-0-0-153.html&#34;&gt;去广告和捆绑的 Adobe Flash Player&lt;/a&gt;，Thin PC 系统中 Firefox 应该就可以播放几乎所有网页的音视频了，这就完美了。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
+        <dc:creator>七七</dc:creator>
         
         
         
@@ -189,11 +189,11 @@
       
       <item>
         <title>安装并迁移到 Typecho 遇到的一些问题及解决方法</title>
-        <link>https://wendao.cyou/posts/install-and-migrate-to-typecho/</link>
+        <link>https://ufoseven.github.io/posts/install-and-migrate-to-typecho/</link>
         <pubDate>Mon, 17 Dec 2018 11:50:35 +0800</pubDate>
         
         <atom:modified>Mon, 17 Dec 2018 11:50:35 +0800</atom:modified>
-        <guid>https://wendao.cyou/posts/install-and-migrate-to-typecho/</guid>
+        <guid>https://ufoseven.github.io/posts/install-and-migrate-to-typecho/</guid>
         <description>最近把博客从 WordPress 迁移到 Typecho 平台，遇到的一些问题及解决方法记录如下： 1. 安装时卡在第2步初始化配置页面 （1）卡在数据库连接页面，提示“对不起，无法连</description>
         <content:encoded>&lt;p&gt;最近把博客从 WordPress 迁移到 Typecho 平台，遇到的一些问题及解决方法记录如下：&lt;/p&gt;
 &lt;h4 id=&#34;1-安装时卡在第2步初始化配置页面&#34;&gt;&lt;strong&gt;1. 安装时卡在第2步初始化配置页面&lt;/strong&gt;&lt;/h4&gt;
@@ -220,7 +220,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;这样后台管理页面就能打开了。&lt;/p&gt;
 &lt;p&gt;（2）添加 Cloudflare CDN 后，评论 IP 显示的是 Cloudflare CDN 的代理 IP 而不是访客真实 IP，显示访客真实 IP 的方法见这篇文章：&lt;a href=&#34;https://www.typecho.wiki/archives/typecho-configuring-cdn-to-get-visitors-real-ip.html&#34;&gt;Typecho 配置 CDN 后获取访客真实 IP&lt;/a&gt;。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
+        <dc:creator>七七</dc:creator>
         
         
         
@@ -269,11 +269,11 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
       
       <item>
         <title>WordPress 使用 Cloudflare 遇到的几个问题及解决方法</title>
-        <link>https://wendao.cyou/posts/wordpress-cloudflare-cdn-ssl/</link>
+        <link>https://ufoseven.github.io/posts/wordpress-cloudflare-cdn-ssl/</link>
         <pubDate>Sat, 22 Sep 2018 15:01:21 +0800</pubDate>
         
         <atom:modified>Sat, 22 Sep 2018 15:01:21 +0800</atom:modified>
-        <guid>https://wendao.cyou/posts/wordpress-cloudflare-cdn-ssl/</guid>
+        <guid>https://ufoseven.github.io/posts/wordpress-cloudflare-cdn-ssl/</guid>
         <description>最近使用 Cloudflare 为WordPress博客添加了免费 CDN 和 SSL 服务，在此过程中遇到的一些问题和解决方法记录如下。 Cloudflare Flexible SSL 开启 Always use HTTPS 后导致 WordPress 网站无限循环重定</description>
         <content:encoded>&lt;p&gt;最近使用 Cloudflare 为WordPress博客添加了免费 CDN 和 SSL 服务，在此过程中遇到的一些问题和解决方法记录如下。&lt;/p&gt;
 &lt;ul&gt;
@@ -284,7 +284,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
 &lt;/ul&gt;
 &lt;p&gt;需要注意的是如果采用 Cloudflare Flexible SSL 模式，那么安装插件和开启有关功能的顺序不能乱来，正确的顺序是：安装并启用 CloudFlare Flexible SSL 插件 &amp;raquo; 安装并启用 Really Simple SSL 插件 &amp;raquo; 开启 HSTS，开启 Always use HTTPS 要在启用 CloudFlare Flexible SSL 插件之后，如果想要关闭相关的插件或功能，顺序就应该反过来。不按照上面的顺序操作，可能会导致网站打不开。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
+        <dc:creator>七七</dc:creator>
         
         
         
@@ -329,18 +329,18 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
       
       <item>
         <title>极端体验之1G内存装Win7</title>
-        <link>https://wendao.cyou/posts/thin-pc/</link>
+        <link>https://ufoseven.github.io/posts/thin-pc/</link>
         <pubDate>Fri, 21 Sep 2018 12:28:52 +0800</pubDate>
         
         <atom:modified>Fri, 21 Sep 2018 12:28:52 +0800</atom:modified>
-        <guid>https://wendao.cyou/posts/thin-pc/</guid>
+        <guid>https://ufoseven.github.io/posts/thin-pc/</guid>
         <description>前几天把十年前只有 1G 内存的 XP 本装上了 Win7 精简版 Windows Thin PC （微软官方出品），装完后磁盘占用不到 4G，内存 500M 多一点，感觉要比原来的 XP 系统流畅，最重要的</description>
         <content:encoded>&lt;p&gt;前几天把十年前只有 1G 内存的 XP 本装上了 Win7 精简版 &lt;a href=&#34;https://baike.baidu.com/item/Windows%20Thin%20PC&#34;&gt;Windows Thin PC&lt;/a&gt; （微软官方出品），装完后磁盘占用不到 4G，内存 500M 多一点，感觉要比原来的 XP 系统流畅，最重要的是能用 Chrome 了。因为占用资源少，Thin PC 适合老机器，或者替代 Win7 装虚拟机。开始我想装 Linux 系统，可是该系统科学上网很不方便，所以最后装了 Thin PC。这样我的这台本来要丢垃圾箱的老笔记本，现在有了一点存在的价值。&lt;/p&gt;
 &lt;p&gt;装完系统后，Chrome 打开两个以上标签页就崩溃，后来发现设置一下虚拟内存就好了，原来 Thin PC 默认不设虚拟内存，超出内存程序就会崩溃；还有，系统（从官网下载的）自带的图片浏览器不能用，不知什么原因打不开图片，需要安装第三方看图软件。&lt;/p&gt;
 &lt;p&gt;另外一个发现是，在 1G 内存的情况下，Chrome 还是要比 Firefox 快，Firefox 经常卡住，没有响应，而 Chrome 不会卡住。此外发现一款比 Chrome、Firefox、Opera 占用内存更小的浏览器 Vivaldi，在 1G 内存不设虚拟内存的情况下，上述三个浏览器都只能打开一个标签页（以我的博客来测试），再打开第二个就会崩溃，而 Vivaldi 可以打开3个标签页。可惜 Vivaldi 太小众，我担心安全问题，不放心把密码保存在里面。&lt;/p&gt;
-&lt;p&gt;更新：Thin PC 系统无法查看图片的原因与 &lt;a href=&#34;https://wendao.cyou/posts/thin-pc-firefox-ie-audio-video/&#34;&gt;解决 Windows Thin PC 系统中 Firefox 和 IE 播放音频和视频的问题&lt;/a&gt; 一文中提到的原因相同，解决方法类似。&lt;/p&gt;
+&lt;p&gt;更新：Thin PC 系统无法查看图片的原因与 &lt;a href=&#34;https://ufoseven.github.io/posts/thin-pc-firefox-ie-audio-video/&#34;&gt;解决 Windows Thin PC 系统中 Firefox 和 IE 播放音频和视频的问题&lt;/a&gt; 一文中提到的原因相同，解决方法类似。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
+        <dc:creator>七七</dc:creator>
         
         
         

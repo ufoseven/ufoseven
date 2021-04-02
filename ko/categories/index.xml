@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Hugo Zzo Theme</title>
-    <link>https://wendao.cyou/ko/categories/</link>
+    <link>https://ufoseven.github.io/ko/categories/</link>
     <description>Recent content in Categories on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://wendao.cyou/ko/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ufoseven.github.io/ko/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       

@@ -6,25 +6,25 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>IE on 闻道之路</title>
-    <link>https://wendao.cyou/tags/ie/</link>
-    <description>Recent content in IE on 闻道之路</description>
+    <title>IE on 幽浮七号</title>
+    <link>https://ufoseven.github.io/tags/ie/</link>
+    <description>Recent content in IE on 幽浮七号</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 09 Apr 2019 12:00:07 +0800</lastBuildDate>
     
-        <atom:link href="https://wendao.cyou/tags/ie/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ufoseven.github.io/tags/ie/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>解决 Windows Thin PC 系统中 Firefox 和 IE 播放音频和视频的问题</title>
-        <link>https://wendao.cyou/posts/thin-pc-firefox-ie-audio-video/</link>
+        <link>https://ufoseven.github.io/posts/thin-pc-firefox-ie-audio-video/</link>
         <pubDate>Tue, 09 Apr 2019 12:00:07 +0800</pubDate>
         
         <atom:modified>Tue, 09 Apr 2019 12:00:07 +0800</atom:modified>
-        <guid>https://wendao.cyou/posts/thin-pc-firefox-ie-audio-video/</guid>
+        <guid>https://ufoseven.github.io/posts/thin-pc-firefox-ie-audio-video/</guid>
         <description>今天为我的 Windows Thin PC 系统安装了一些功能组件，解决了一系列问题。 使用 Thin PC 一段时间了，有一个问题一直困扰着我，我的 Thin PC 上的 Firefox / IE11 无法播放一些 HTML5 音频和</description>
         <content:encoded>&lt;p&gt;今天为我的 &lt;a href=&#34;https://baike.baidu.com/item/Windows%20Thin%20PC&#34;&gt;Windows Thin PC&lt;/a&gt; 系统安装了一些功能组件，解决了一系列问题。&lt;/p&gt;
 &lt;p&gt;使用 Thin PC 一段时间了，有一个问题一直困扰着我，我的 Thin PC 上的 Firefox / IE11 无法播放一些 HTML5 音频和视频（但 Chrome 可以），比如，我博客上的 HTML5 音频标记为“&lt;strong&gt;错误：音频类型不受支持或文件路径无效&lt;/strong&gt;”，Twitter 上的视频则提示“&lt;strong&gt;我们无法在这个浏览器上播放视频，请尝试换用其它浏览器。&lt;/strong&gt;”然而 Youtube 上的视频则可以播放，奇怪的很。因为这个原因再加上 Firefox 在我这台 Thin PC 电脑上的速度不如 Chrome 快，所以一直在用 Chrome。然而最近发现 Firefox 升级后打开我博客的速度要比 Chrome 快（可是在另一台配置较高的 Win10 上则相反），因此打算在我的 Thin PC 电脑上主要使用 Firefox，于是经过一番查找终于找到了问题的症结所在： Windows Thin PC 没有安装相应的音频和视频组件。&lt;/p&gt;
@@ -48,7 +48,7 @@
 &lt;/ul&gt;
 &lt;p&gt;再安装&lt;a href=&#34;https://laod.cn/tools/adobe-flash-player-ax-np-pp-31-0-0-153.html&#34;&gt;去广告和捆绑的 Adobe Flash Player&lt;/a&gt;，Thin PC 系统中 Firefox 应该就可以播放几乎所有网页的音视频了，这就完美了。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
+        <dc:creator>七七</dc:creator>
         
         
         

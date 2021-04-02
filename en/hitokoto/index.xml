@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hitokoto on Hugo Zzo Theme</title>
-    <link>https://wendao.cyou/en/hitokoto/</link>
+    <link>https://ufoseven.github.io/en/hitokoto/</link>
     <description>Recent content in Hitokoto on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://wendao.cyou/en/hitokoto/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ufoseven.github.io/en/hitokoto/index.xml" rel="self" type="application/rss+xml" />
     
 
       

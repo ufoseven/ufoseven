@@ -6,25 +6,25 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Hexo on 闻道之路</title>
-    <link>https://wendao.cyou/tags/hexo/</link>
-    <description>Recent content in Hexo on 闻道之路</description>
+    <title>Hexo on 幽浮七号</title>
+    <link>https://ufoseven.github.io/tags/hexo/</link>
+    <description>Recent content in Hexo on 幽浮七号</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 06 Sep 2019 12:40:38 +0800</lastBuildDate>
     
-        <atom:link href="https://wendao.cyou/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ufoseven.github.io/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Hexo 如何删除 git commit 历史记录</title>
-        <link>https://wendao.cyou/posts/hexo-delete-git-commit-history/</link>
+        <link>https://ufoseven.github.io/posts/hexo-delete-git-commit-history/</link>
         <pubDate>Fri, 06 Sep 2019 12:40:38 +0800</pubDate>
         
         <atom:modified>Fri, 06 Sep 2019 12:40:38 +0800</atom:modified>
-        <guid>https://wendao.cyou/posts/hexo-delete-git-commit-history/</guid>
+        <guid>https://ufoseven.github.io/posts/hexo-delete-git-commit-history/</guid>
         <description>有时 Hexo 博客发布之后，会对博客内容再进行修改，如果不想要别人看到 Hexo 博客的修改历史，只保留最后的版本，那我们可以把以前的 git commit 历史记录清理掉，这样</description>
         <content:encoded>&lt;p&gt;有时 Hexo 博客发布之后，会对博客内容再进行修改，如果不想要别人看到 Hexo 博客的修改历史，只保留最后的版本，那我们可以把以前的 git commit 历史记录清理掉，这样还可以减少占用的 Pages 空间。操作步骤如下：&lt;/p&gt;
 &lt;ol&gt;
@@ -38,7 +38,7 @@
 &lt;/ol&gt;
 &lt;pre&gt;&lt;code&gt;hexo d -g
 &lt;/code&gt;&lt;/pre&gt;</content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
+        <dc:creator>七七</dc:creator>
         
         
         

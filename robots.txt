@@ -13,4 +13,4 @@ Disallow: /links/
 Disallow: /en/
 Disallow: /ko/
 
-Sitemap: https://wendao.cyou/zh/sitemap.xml
+Sitemap: https://ufoseven.github.io/zh/sitemap.xml

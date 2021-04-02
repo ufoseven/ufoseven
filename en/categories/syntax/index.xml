@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>syntax on Hugo Zzo Theme</title>
-    <link>https://wendao.cyou/en/categories/syntax/</link>
+    <link>https://ufoseven.github.io/en/categories/syntax/</link>
     <description>Recent content in syntax on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="https://wendao.cyou/en/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ufoseven.github.io/en/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Markdown Syntax Guide</title>
-        <link>https://wendao.cyou/en/posts/markdown-syntax/</link>
+        <link>https://ufoseven.github.io/en/posts/markdown-syntax/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         
         <atom:modified>Fri, 20 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>https://wendao.cyou/en/posts/markdown-syntax/</guid>
+        <guid>https://ufoseven.github.io/en/posts/markdown-syntax/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
         <content:encoded>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
@@ -177,7 +177,7 @@
 &lt;/ol&gt;
 &lt;/div&gt;</content:encoded>
         <dc:creator>Choi</dc:creator>
-        <media:content url="https://wendao.cyouimages/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://ufoseven.github.ioimages/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

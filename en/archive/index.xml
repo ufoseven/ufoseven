@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archive on Hugo Zzo Theme</title>
-    <link>https://wendao.cyou/en/archive/</link>
+    <link>https://ufoseven.github.io/en/archive/</link>
     <description>Recent content in Archive on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     
-        <atom:link href="https://wendao.cyou/en/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ufoseven.github.io/en/archive/index.xml" rel="self" type="application/rss+xml" />
     
 
       

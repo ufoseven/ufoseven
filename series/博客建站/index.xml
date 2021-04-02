@@ -6,25 +6,25 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>博客建站 on 闻道之路</title>
-    <link>https://wendao.cyou/series/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/</link>
-    <description>Recent content in 博客建站 on 闻道之路</description>
+    <title>博客建站 on 幽浮七号</title>
+    <link>https://ufoseven.github.io/series/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/</link>
+    <description>Recent content in 博客建站 on 幽浮七号</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 06 Sep 2019 12:40:38 +0800</lastBuildDate>
     
-        <atom:link href="https://wendao.cyou/series/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ufoseven.github.io/series/%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Hexo 如何删除 git commit 历史记录</title>
-        <link>https://wendao.cyou/posts/hexo-delete-git-commit-history/</link>
+        <link>https://ufoseven.github.io/posts/hexo-delete-git-commit-history/</link>
         <pubDate>Fri, 06 Sep 2019 12:40:38 +0800</pubDate>
         
         <atom:modified>Fri, 06 Sep 2019 12:40:38 +0800</atom:modified>
-        <guid>https://wendao.cyou/posts/hexo-delete-git-commit-history/</guid>
+        <guid>https://ufoseven.github.io/posts/hexo-delete-git-commit-history/</guid>
         <description>有时 Hexo 博客发布之后，会对博客内容再进行修改，如果不想要别人看到 Hexo 博客的修改历史，只保留最后的版本，那我们可以把以前的 git commit 历史记录清理掉，这样</description>
         <content:encoded>&lt;p&gt;有时 Hexo 博客发布之后，会对博客内容再进行修改，如果不想要别人看到 Hexo 博客的修改历史，只保留最后的版本，那我们可以把以前的 git commit 历史记录清理掉，这样还可以减少占用的 Pages 空间。操作步骤如下：&lt;/p&gt;
 &lt;ol&gt;
@@ -38,7 +38,7 @@
 &lt;/ol&gt;
 &lt;pre&gt;&lt;code&gt;hexo d -g
 &lt;/code&gt;&lt;/pre&gt;</content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
+        <dc:creator>七七</dc:creator>
         
         
         
@@ -75,11 +75,11 @@
       
       <item>
         <title>安装并迁移到 Typecho 遇到的一些问题及解决方法</title>
-        <link>https://wendao.cyou/posts/install-and-migrate-to-typecho/</link>
+        <link>https://ufoseven.github.io/posts/install-and-migrate-to-typecho/</link>
         <pubDate>Mon, 17 Dec 2018 11:50:35 +0800</pubDate>
         
         <atom:modified>Mon, 17 Dec 2018 11:50:35 +0800</atom:modified>
-        <guid>https://wendao.cyou/posts/install-and-migrate-to-typecho/</guid>
+        <guid>https://ufoseven.github.io/posts/install-and-migrate-to-typecho/</guid>
         <description>最近把博客从 WordPress 迁移到 Typecho 平台，遇到的一些问题及解决方法记录如下： 1. 安装时卡在第2步初始化配置页面 （1）卡在数据库连接页面，提示“对不起，无法连</description>
         <content:encoded>&lt;p&gt;最近把博客从 WordPress 迁移到 Typecho 平台，遇到的一些问题及解决方法记录如下：&lt;/p&gt;
 &lt;h4 id=&#34;1-安装时卡在第2步初始化配置页面&#34;&gt;&lt;strong&gt;1. 安装时卡在第2步初始化配置页面&lt;/strong&gt;&lt;/h4&gt;
@@ -106,7 +106,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;这样后台管理页面就能打开了。&lt;/p&gt;
 &lt;p&gt;（2）添加 Cloudflare CDN 后，评论 IP 显示的是 Cloudflare CDN 的代理 IP 而不是访客真实 IP，显示访客真实 IP 的方法见这篇文章：&lt;a href=&#34;https://www.typecho.wiki/archives/typecho-configuring-cdn-to-get-visitors-real-ip.html&#34;&gt;Typecho 配置 CDN 后获取访客真实 IP&lt;/a&gt;。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
+        <dc:creator>七七</dc:creator>
         
         
         
@@ -155,11 +155,11 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
       
       <item>
         <title>WordPress 使用 Cloudflare 遇到的几个问题及解决方法</title>
-        <link>https://wendao.cyou/posts/wordpress-cloudflare-cdn-ssl/</link>
+        <link>https://ufoseven.github.io/posts/wordpress-cloudflare-cdn-ssl/</link>
         <pubDate>Sat, 22 Sep 2018 15:01:21 +0800</pubDate>
         
         <atom:modified>Sat, 22 Sep 2018 15:01:21 +0800</atom:modified>
-        <guid>https://wendao.cyou/posts/wordpress-cloudflare-cdn-ssl/</guid>
+        <guid>https://ufoseven.github.io/posts/wordpress-cloudflare-cdn-ssl/</guid>
         <description>最近使用 Cloudflare 为WordPress博客添加了免费 CDN 和 SSL 服务，在此过程中遇到的一些问题和解决方法记录如下。 Cloudflare Flexible SSL 开启 Always use HTTPS 后导致 WordPress 网站无限循环重定</description>
         <content:encoded>&lt;p&gt;最近使用 Cloudflare 为WordPress博客添加了免费 CDN 和 SSL 服务，在此过程中遇到的一些问题和解决方法记录如下。&lt;/p&gt;
 &lt;ul&gt;
@@ -170,7 +170,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
 &lt;/ul&gt;
 &lt;p&gt;需要注意的是如果采用 Cloudflare Flexible SSL 模式，那么安装插件和开启有关功能的顺序不能乱来，正确的顺序是：安装并启用 CloudFlare Flexible SSL 插件 &amp;raquo; 安装并启用 Really Simple SSL 插件 &amp;raquo; 开启 HSTS，开启 Always use HTTPS 要在启用 CloudFlare Flexible SSL 插件之后，如果想要关闭相关的插件或功能，顺序就应该反过来。不按照上面的顺序操作，可能会导致网站打不开。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>幽浮七号</dc:creator>
+        <dc:creator>七七</dc:creator>
         
         
         
