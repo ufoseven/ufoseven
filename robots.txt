@@ -1,16 +1,13 @@
 User-agent: *
-Allow: /
-Allow: /posts/
-Allow: /archive/
 
 Disallow: /js/
 Disallow: /fonts/
 Disallow: /lib/
-Disallow: /categories/
 Disallow: /tags/
+Disallow: /categories/
+Disallow: /series/
 Disallow: /page/
 Disallow: /links/
-Disallow: /en/
 Disallow: /ko/
 
-Sitemap: https://ufoseven.github.io/zh/sitemap.xml
+Sitemap: https://ufoseven.github.io/sitemap.xml

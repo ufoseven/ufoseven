@@ -11,11 +11,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://ufoseven.github.io/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh"
                 href="https://ufoseven.github.io/"
                 />
@@ -26,11 +21,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ufoseven.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ufoseven.github.io/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -47,11 +37,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://ufoseven.github.io/ko/series/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh"
                 href="https://ufoseven.github.io/series/"
                 />
@@ -62,11 +47,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ufoseven.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ufoseven.github.io/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -89,11 +69,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ufoseven.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ufoseven.github.io/ko/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -614,11 +589,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://ufoseven.github.io/ko/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh"
                 href="https://ufoseven.github.io/gallery/"
                 />
@@ -629,11 +599,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ufoseven.github.io/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ufoseven.github.io/ko/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -653,11 +618,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://ufoseven.github.io/ko/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh"
                 href="https://ufoseven.github.io/archive/"
                 />
@@ -668,11 +628,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ufoseven.github.io/en/gallery/cartoon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ufoseven.github.io/ko/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -689,11 +644,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="https://ufoseven.github.io/ko/gallery/photo/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh"
                 href="https://ufoseven.github.io/gallery/photo/"
                 />
@@ -706,11 +656,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ufoseven.github.io/en/hitokoto/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://ufoseven.github.io/ko/hitokoto/"
                 />
     <xhtml:link
                 rel="alternate"
