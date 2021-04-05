@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ufoseven.github.io/</loc>
-    <lastmod>2021-02-28T20:32:22+08:00</lastmod>
+    <lastmod>2021-04-06T04:52:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://ufoseven.github.io/categories/</loc>
-    <lastmod>2021-02-28T20:32:22+08:00</lastmod>
+    <lastmod>2021-04-06T04:52:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://ufoseven.github.io/series/</loc>
-    <lastmod>2021-02-28T20:32:22+08:00</lastmod>
+    <lastmod>2021-04-06T04:52:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>https://ufoseven.github.io/tags/</loc>
-    <lastmod>2021-02-28T20:32:22+08:00</lastmod>
+    <lastmod>2021-04-06T04:52:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,17 +54,11 @@
                 href="https://ufoseven.github.io/tags/"
                 />
   </url><url>
-    <loc>https://ufoseven.github.io/tags/%E5%87%AF%E5%8F%B2/</loc>
-    <lastmod>2021-02-28T20:32:22+08:00</lastmod>
-  </url><url>
-    <loc>https://ufoseven.github.io/tags/%E5%9C%A3%E5%9F%83%E5%85%8B%E7%B5%AE%E4%BD%A9%E9%87%8C/</loc>
-    <lastmod>2021-02-28T20:32:22+08:00</lastmod>
-  </url><url>
-    <loc>https://ufoseven.github.io/tags/%E6%84%9F%E6%82%9F/</loc>
-    <lastmod>2021-02-28T20:32:22+08:00</lastmod>
+    <loc>https://ufoseven.github.io/categories/%E5%81%B6%E5%B0%94%E5%86%99%E5%86%99%E8%AF%97/</loc>
+    <lastmod>2021-04-06T04:52:39+08:00</lastmod>
   </url><url>
     <loc>https://ufoseven.github.io/posts/</loc>
-    <lastmod>2021-02-28T20:32:22+08:00</lastmod>
+    <lastmod>2021-04-06T04:52:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -75,6 +69,24 @@
                 hreflang="zh"
                 href="https://ufoseven.github.io/posts/"
                 />
+  </url><url>
+    <loc>https://ufoseven.github.io/tags/%E8%AF%97%E6%AD%8C/</loc>
+    <lastmod>2021-04-06T04:52:39+08:00</lastmod>
+  </url><url>
+    <loc>https://ufoseven.github.io/series/%E8%AF%97%E6%AD%8C%E9%9B%86/</loc>
+    <lastmod>2021-04-06T04:52:39+08:00</lastmod>
+  </url><url>
+    <loc>https://ufoseven.github.io/posts/black-sun/</loc>
+    <lastmod>2021-04-06T04:52:39+08:00</lastmod>
+  </url><url>
+    <loc>https://ufoseven.github.io/tags/%E5%87%AF%E5%8F%B2/</loc>
+    <lastmod>2021-02-28T20:32:22+08:00</lastmod>
+  </url><url>
+    <loc>https://ufoseven.github.io/tags/%E5%9C%A3%E5%9F%83%E5%85%8B%E7%B5%AE%E4%BD%A9%E9%87%8C/</loc>
+    <lastmod>2021-02-28T20:32:22+08:00</lastmod>
+  </url><url>
+    <loc>https://ufoseven.github.io/tags/%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2021-02-28T20:32:22+08:00</lastmod>
   </url><url>
     <loc>https://ufoseven.github.io/tags/%E6%A2%B5%E9%AB%98/</loc>
     <lastmod>2021-02-28T20:32:22+08:00</lastmod>
@@ -109,16 +121,7 @@
     <loc>https://ufoseven.github.io/categories/%E8%99%9A%E6%9E%84%E8%80%8C%E5%B7%B2/</loc>
     <lastmod>2021-01-11T23:32:20+08:00</lastmod>
   </url><url>
-    <loc>https://ufoseven.github.io/categories/%E5%81%B6%E5%B0%94%E5%86%99%E5%86%99%E8%AF%97/</loc>
-    <lastmod>2021-01-03T06:32:36+08:00</lastmod>
-  </url><url>
     <loc>https://ufoseven.github.io/posts/live-and-die/</loc>
-    <lastmod>2021-01-03T06:32:36+08:00</lastmod>
-  </url><url>
-    <loc>https://ufoseven.github.io/tags/%E8%AF%97%E6%AD%8C/</loc>
-    <lastmod>2021-01-03T06:32:36+08:00</lastmod>
-  </url><url>
-    <loc>https://ufoseven.github.io/series/%E8%AF%97%E6%AD%8C%E9%9B%86/</loc>
     <lastmod>2021-01-03T06:32:36+08:00</lastmod>
   </url><url>
     <loc>https://ufoseven.github.io/posts/one-person/</loc>
