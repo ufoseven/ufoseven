@@ -38,7 +38,7 @@
 &lt;/ol&gt;
 &lt;pre&gt;&lt;code&gt;hexo d -g
 &lt;/code&gt;&lt;/pre&gt;</content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         
         
         
@@ -106,7 +106,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;这样后台管理页面就能打开了。&lt;/p&gt;
 &lt;p&gt;（2）添加 Cloudflare CDN 后，评论 IP 显示的是 Cloudflare CDN 的代理 IP 而不是访客真实 IP，显示访客真实 IP 的方法见这篇文章：&lt;a href=&#34;https://www.typecho.wiki/archives/typecho-configuring-cdn-to-get-visitors-real-ip.html&#34;&gt;Typecho 配置 CDN 后获取访客真实 IP&lt;/a&gt;。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         
         
         
@@ -170,7 +170,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
 &lt;/ul&gt;
 &lt;p&gt;需要注意的是如果采用 Cloudflare Flexible SSL 模式，那么安装插件和开启有关功能的顺序不能乱来，正确的顺序是：安装并启用 CloudFlare Flexible SSL 插件 &amp;raquo; 安装并启用 Really Simple SSL 插件 &amp;raquo; 开启 HSTS，开启 Always use HTTPS 要在启用 CloudFlare Flexible SSL 插件之后，如果想要关闭相关的插件或功能，顺序就应该反过来。不按照上面的顺序操作，可能会导致网站打不开。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         
         
         

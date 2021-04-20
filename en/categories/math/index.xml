@@ -30,7 +30,7 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</description>
         <content:encoded>&lt;p&gt;When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are&lt;br /&gt;
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$&lt;/p&gt;
 </content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         <media:content url="https://ufoseven.github.ioimages/feature1/infinity.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -83,7 +83,7 @@ $$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Block math:&lt;/p&gt;
 &lt;p&gt;$$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$&lt;/p&gt;
 </content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         <media:content url="https://ufoseven.github.ioimages/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         

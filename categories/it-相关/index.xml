@@ -42,7 +42,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.dazhuanlan.com/2020/02/06/5e3bfaaaedce0/&#34;&gt;mplayer视频输出选项&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         
         
         
@@ -89,7 +89,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;我是通过如下设置解决问题的：右击任务栏中的网络连接图标,，点击“&lt;strong&gt;配置网络连接&lt;/strong&gt;”，在有线连接或WiFi 的安全选项中把“&lt;strong&gt;仅对当前用户保存密码（加密）&lt;/strong&gt;”改成“&lt;strong&gt;为所有用户保存密码（不加密）&lt;/strong&gt;”。然后重启，Mellow 就能自动连接，不再弹出上述提示了。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         
         
         
@@ -142,7 +142,7 @@
 &lt;/ol&gt;
 &lt;pre&gt;&lt;code&gt;hexo d -g
 &lt;/code&gt;&lt;/pre&gt;</content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         
         
         
@@ -207,7 +207,7 @@
 &lt;/ul&gt;
 &lt;p&gt;再安装&lt;a href=&#34;https://laod.cn/tools/adobe-flash-player-ax-np-pp-31-0-0-153.html&#34;&gt;去广告和捆绑的 Adobe Flash Player&lt;/a&gt;，Thin PC 系统中 Firefox 应该就可以播放几乎所有网页的音视频了，这就完美了。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         
         
         
@@ -277,7 +277,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;这样后台管理页面就能打开了。&lt;/p&gt;
 &lt;p&gt;（2）添加 Cloudflare CDN 后，评论 IP 显示的是 Cloudflare CDN 的代理 IP 而不是访客真实 IP，显示访客真实 IP 的方法见这篇文章：&lt;a href=&#34;https://www.typecho.wiki/archives/typecho-configuring-cdn-to-get-visitors-real-ip.html&#34;&gt;Typecho 配置 CDN 后获取访客真实 IP&lt;/a&gt;。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         
         
         
@@ -341,7 +341,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
 &lt;/ul&gt;
 &lt;p&gt;需要注意的是如果采用 Cloudflare Flexible SSL 模式，那么安装插件和开启有关功能的顺序不能乱来，正确的顺序是：安装并启用 CloudFlare Flexible SSL 插件 &amp;raquo; 安装并启用 Really Simple SSL 插件 &amp;raquo; 开启 HSTS，开启 Always use HTTPS 要在启用 CloudFlare Flexible SSL 插件之后，如果想要关闭相关的插件或功能，顺序就应该反过来。不按照上面的顺序操作，可能会导致网站打不开。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         
         
         
@@ -397,7 +397,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
 &lt;p&gt;另外一个发现是，在 1G 内存的情况下，Chrome 还是要比 Firefox 快，Firefox 经常卡住，没有响应，而 Chrome 不会卡住。此外发现一款比 Chrome、Firefox、Opera 占用内存更小的浏览器 Vivaldi，在 1G 内存不设虚拟内存的情况下，上述三个浏览器都只能打开一个标签页（以我的博客来测试），再打开第二个就会崩溃，而 Vivaldi 可以打开3个标签页。可惜 Vivaldi 太小众，我担心安全问题，不放心把密码保存在里面。&lt;/p&gt;
 &lt;p&gt;更新：Thin PC 系统无法查看图片的原因与 &lt;a href=&#34;https://ufoseven.github.io/posts/thin-pc-firefox-ie-audio-video/&#34;&gt;解决 Windows Thin PC 系统中 Firefox 和 IE 播放音频和视频的问题&lt;/a&gt; 一文中提到的原因相同，解决方法类似。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         
         
         

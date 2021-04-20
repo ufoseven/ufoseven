@@ -28,7 +28,7 @@
         <description>Sample images from Pixabay</description>
         <content:encoded>&lt;p&gt;Sample images from &lt;a href=&#34;https://pixabay.com&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         <media:content url="https://ufoseven.github.ioimages/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -47,7 +47,7 @@
         <description>Sample images from Pixabay</description>
         <content:encoded>&lt;p&gt;Sample images from &lt;a href=&#34;https://pixabay.com&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         <media:content url="https://ufoseven.github.ioimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         

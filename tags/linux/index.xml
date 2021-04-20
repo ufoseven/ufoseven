@@ -42,7 +42,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.dazhuanlan.com/2020/02/06/5e3bfaaaedce0/&#34;&gt;mplayer视频输出选项&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         
         
         
@@ -89,7 +89,7 @@
 &lt;/blockquote&gt;
 &lt;p&gt;我是通过如下设置解决问题的：右击任务栏中的网络连接图标,，点击“&lt;strong&gt;配置网络连接&lt;/strong&gt;”，在有线连接或WiFi 的安全选项中把“&lt;strong&gt;仅对当前用户保存密码（加密）&lt;/strong&gt;”改成“&lt;strong&gt;为所有用户保存密码（不加密）&lt;/strong&gt;”。然后重启，Mellow 就能自动连接，不再弹出上述提示了。&lt;/p&gt;
 </content:encoded>
-        <dc:creator>七七</dc:creator>
+        <dc:creator>Seven</dc:creator>
         
         
         
