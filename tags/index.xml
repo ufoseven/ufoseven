@@ -12,11 +12,83 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2006 - {year} 幽浮七号</copyright>
-    <lastBuildDate>Tue, 06 Apr 2021 04:52:39 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Apr 2021 22:32:07 +0800</lastBuildDate>
     
         <atom:link href="https://ufoseven.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Linux</title>
+        <link>https://ufoseven.github.io/tags/linux/</link>
+        <pubDate>Tue, 20 Apr 2021 22:32:07 +0800</pubDate>
+        
+        
+        <guid>https://ufoseven.github.io/tags/linux/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>七七</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Manjaro</title>
+        <link>https://ufoseven.github.io/tags/manjaro/</link>
+        <pubDate>Tue, 20 Apr 2021 22:32:07 +0800</pubDate>
+        
+        
+        <guid>https://ufoseven.github.io/tags/manjaro/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>七七</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>VLC</title>
+        <link>https://ufoseven.github.io/tags/vlc/</link>
+        <pubDate>Tue, 20 Apr 2021 22:32:07 +0800</pubDate>
+        
+        
+        <guid>https://ufoseven.github.io/tags/vlc/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>七七</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>杂记</title>
+        <link>https://ufoseven.github.io/tags/%E6%9D%82%E8%AE%B0/</link>
+        <pubDate>Tue, 20 Apr 2021 22:32:07 +0800</pubDate>
+        
+        
+        <guid>https://ufoseven.github.io/tags/%E6%9D%82%E8%AE%B0/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>七七</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>诗歌</title>
@@ -475,60 +547,6 @@
         
         
         <guid>https://ufoseven.github.io/tags/%E7%8E%8B%E5%B0%8F%E6%B3%A2/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>七七</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>杂记</title>
-        <link>https://ufoseven.github.io/tags/%E6%9D%82%E8%AE%B0/</link>
-        <pubDate>Fri, 28 Feb 2020 09:04:50 +0800</pubDate>
-        
-        
-        <guid>https://ufoseven.github.io/tags/%E6%9D%82%E8%AE%B0/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>七七</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Linux</title>
-        <link>https://ufoseven.github.io/tags/linux/</link>
-        <pubDate>Tue, 04 Feb 2020 19:50:25 +0800</pubDate>
-        
-        
-        <guid>https://ufoseven.github.io/tags/linux/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>七七</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Manjaro</title>
-        <link>https://ufoseven.github.io/tags/manjaro/</link>
-        <pubDate>Tue, 04 Feb 2020 19:50:25 +0800</pubDate>
-        
-        
-        <guid>https://ufoseven.github.io/tags/manjaro/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>七七</dc:creator>

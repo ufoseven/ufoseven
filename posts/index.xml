@@ -12,11 +12,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2006 - {year} 幽浮七号</copyright>
-    <lastBuildDate>Tue, 06 Apr 2021 04:52:39 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Apr 2021 22:32:07 +0800</lastBuildDate>
     
         <atom:link href="https://ufoseven.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>VLC 播放器无法退出以及丢帧问题</title>
+        <link>https://ufoseven.github.io/posts/vlc-cant-exit-and-video-dropping-frames/</link>
+        <pubDate>Tue, 20 Apr 2021 22:32:07 +0800</pubDate>
+        
+        <atom:modified>Tue, 20 Apr 2021 22:32:07 +0800</atom:modified>
+        <guid>https://ufoseven.github.io/posts/vlc-cant-exit-and-video-dropping-frames/</guid>
+        <description>使用 Manjaro Linux（KDE 桌面环境）很长时间了，但有一个问题一直困扰着我，它的默认播放器 VLC 播放视频关闭后无法退出，其图标仍停留在系统托盘中，而</description>
+        <content:encoded>&lt;p&gt;使用 Manjaro Linux（KDE 桌面环境）很长时间了，但有一个问题一直困扰着我，它的默认播放器 VLC 播放视频关闭后无法退出，其图标仍停留在系统托盘中，而且无法打开新的视频，还有一个问题就是有的视频用 VLC 播放非常卡，时时出现丢帧现象，然而在 Windows 10 下用别的播放器比如 PotPlayer 播放却没有这个问题，这说明不是硬件问题。所以我在 Manjaro 中安装了别的播放器，试了很多款，最终选择了 bomi 播放器，其它的要么掉帧卡顿要么颜值不行。今天闲着无聊的时候终于找到了解决 VLC 无法退出及丢帧卡顿问题的解决办法，简单设置一下即可，打开 VLC 播放器，依次点击：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;工具&amp;gt;偏好设置&amp;gt;视频&amp;gt;output&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;工具&amp;gt;偏好设置&amp;gt;输入/编解码器&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;然后选择与系统相匹配的选项，可能是 XCB 或 VDPAU，上面两项设置我选的是“XVideo 输出 (XCB)“以及“自动”，因为我查看我的 Manjaro 系统信息，图形平台是 X11，如果不清楚的话可以逐个试一下。这样设置之后，上面的两个问题都解决了。&lt;/p&gt;
+&lt;p&gt;参考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://forum.manjaro.org/t/vlc-does-not-end-process-after-closed/14385&#34;&gt;Vlc does not end process after closed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dazhuanlan.com/2020/02/06/5e3bfaaaedce0/&#34;&gt;mplayer视频输出选项&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+        <dc:creator>七七</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>杂记</category>
+            
+          
+            
+              <category>VLC</category>
+            
+          
+            
+              <category>Manjaro</category>
+            
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>IT 相关</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>黑色的太阳</title>
@@ -81,7 +138,7 @@
 &lt;center&gt;莫奈《绽放的睡莲》&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;做科学研究，喜欢用眼睛看的，适合实验科学，喜欢用心看的，适合理论科学。搞艺术创作，喜欢用眼睛看的，适合写实，喜欢用心看的，适合写意。根据 MBTI 人格心理学，喜欢用眼睛看的，一般是 S（感觉）型的，喜欢用心看的，一般是 N（直觉）型的。&lt;/p&gt;
-&lt;p&gt;无论科学还是创作，未来属于用心去看的人。科学实验大都是在理论指导下进行的，而理论适合喜欢用心看的人去研究。艺术创作中，写实曾经是西方的传统之一，现在似乎已经走到了尽头，而且用肉眼看到的那个世界都一样，写来写去都腻了，而用心看到的世界则各不相同，我们需要用心看世界的创作者以不同的视角和感受带来新的东西。&lt;/p&gt;
+&lt;p&gt;无论科研还是创作，未来属于用心去看的人。科学实验大都是在理论指导下进行的，而理论适合喜欢用心看的人去研究。艺术创作中，写实曾经是西方的传统之一，现在似乎已经走到了尽头，而且用肉眼看到的那个世界都一样，写来写去都腻了，而用心看到的世界则各不相同，我们需要用心看世界的创作者以不同的视角和感受带来新的东西。&lt;/p&gt;
 </content:encoded>
         <dc:creator>七七</dc:creator>
         <media:content url="https://ufoseven.github.iogallery/other/Van_Gogh_Starry_Night.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -1034,7 +1091,7 @@
         
           
             
-              <category>IT相关</category>
+              <category>IT 相关</category>
             
           
         
@@ -1339,7 +1396,7 @@
         
           
             
-              <category>IT相关</category>
+              <category>IT 相关</category>
             
           
         
@@ -2068,7 +2125,7 @@
         
           
             
-              <category>IT相关</category>
+              <category>IT 相关</category>
             
           
         
@@ -2324,7 +2381,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
         
           
             
-              <category>IT相关</category>
+              <category>IT 相关</category>
             
           
         
@@ -2553,7 +2610,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
         
           
             
-              <category>IT相关</category>
+              <category>IT 相关</category>
             
           
         
@@ -2601,7 +2658,7 @@ define(&#39;__TYPECHO_SECURE__&#39;,true);
         
           
             
-              <category>IT相关</category>
+              <category>IT 相关</category>
             
           
         
