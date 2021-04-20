@@ -20,11 +20,11 @@
       
       <item>
         <title>VLC 播放器无法退出以及丢帧问题</title>
-        <link>https://ufoseven.github.io/posts/vlc-cant-exit-and-video-dropping-frames/</link>
+        <link>https://ufoseven.github.io/posts/vlc-does-not-exit-and-video-dropping-frames/</link>
         <pubDate>Tue, 20 Apr 2021 22:32:07 +0800</pubDate>
         
         <atom:modified>Tue, 20 Apr 2021 22:32:07 +0800</atom:modified>
-        <guid>https://ufoseven.github.io/posts/vlc-cant-exit-and-video-dropping-frames/</guid>
+        <guid>https://ufoseven.github.io/posts/vlc-does-not-exit-and-video-dropping-frames/</guid>
         <description>使用 Manjaro Linux（KDE 桌面环境）很长时间了，但有一个问题一直困扰着我，它的默认播放器 VLC 播放视频关闭后无法退出，其图标仍停留在系统托盘中，而</description>
         <content:encoded>&lt;p&gt;使用 Manjaro Linux（KDE 桌面环境）很长时间了，但有一个问题一直困扰着我，它的默认播放器 VLC 播放视频关闭后无法退出，其图标仍停留在系统托盘中，而且无法打开新的视频，还有一个问题就是有的视频用 VLC 播放非常卡，时时出现丢帧现象，然而在 Windows 10 下用别的播放器比如 PotPlayer 播放却没有这个问题，这说明不是硬件问题。所以我在 Manjaro 中安装了别的播放器，试了很多款，最终选择了 bomi 播放器，其它的要么掉帧卡顿要么颜值不行。今天闲着无聊的时候终于找到了解决 VLC 无法退出及丢帧卡顿问题的解决办法，简单设置一下即可，打开 VLC 播放器，依次点击：&lt;/p&gt;
 &lt;ul&gt;
