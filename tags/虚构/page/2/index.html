@@ -663,6 +663,12 @@
     
     var enableSearch = JSON.parse("true");
     
+    var searchDistance = JSON.parse("100");
+    
+    var searchThreshold = JSON.parse("0.4");
+    
+    var searchContent = JSON.parse("true");
+    
     var enableSearchHighlight = JSON.parse("true");
     
     var searchResultPosition = JSON.parse("\"main\"");
@@ -686,12 +692,13 @@
         xhr.onload = function () {
           if (xhr.status === 200) {
             fuse = new Fuse(JSON.parse(xhr.response.toString('utf-8')), {
-              keys: sectionType.includes('publication') ? ['title', 'abstract'] : ['title', 'description', 'content'],
+              keys: sectionType.includes('publication') ? ['title', 'abstract'] : 
+                searchContent ? ['title', 'description', 'content'] : ['title', 'description'],
               includeMatches: enableSearchHighlight,
               shouldSort: true, 
-              threshold: 0.4, 
+              threshold: searchThreshold ? searchThreshold : 0.4, 
               location: 0, 
-              distance: 100, 
+              distance: searchDistance ? searchDistance : 100, 
               maxPatternLength: 32,
               minMatchCharLength: 1,
               isCaseSensitive: false, 
@@ -1959,6 +1966,29 @@
     
     
     
+    
+        
+        <li class="sidebar-recent">
+            <a href="/posts/land-of-clouds/" class="sidebar-recent__title p1">云之国</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/the-soul-lost-deity/" class="sidebar-recent__title p1">丢失灵魂的神</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/go-home/" class="sidebar-recent__title p1">归乡</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/what-is-real/" class="sidebar-recent__title p1">真实是什么</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/bronze-statue-that-can-play-music/" class="sidebar-recent__title p1">会演奏音乐的青铜雕像</a>
+        </li>
+        
+        <hr class="hr-fade sidebar-hr" />
     
 </ul>
 <div class="taxo-root">

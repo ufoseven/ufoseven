@@ -663,6 +663,12 @@
     
     var enableSearch = JSON.parse("true");
     
+    var searchDistance = JSON.parse("100");
+    
+    var searchThreshold = JSON.parse("0.4");
+    
+    var searchContent = JSON.parse("true");
+    
     var enableSearchHighlight = JSON.parse("true");
     
     var searchResultPosition = JSON.parse("\"main\"");
@@ -686,12 +692,13 @@
         xhr.onload = function () {
           if (xhr.status === 200) {
             fuse = new Fuse(JSON.parse(xhr.response.toString('utf-8')), {
-              keys: sectionType.includes('publication') ? ['title', 'abstract'] : ['title', 'description', 'content'],
+              keys: sectionType.includes('publication') ? ['title', 'abstract'] : 
+                searchContent ? ['title', 'description', 'content'] : ['title', 'description'],
               includeMatches: enableSearchHighlight,
               shouldSort: true, 
-              threshold: 0.4, 
+              threshold: searchThreshold ? searchThreshold : 0.4, 
               location: 0, 
-              distance: 100, 
+              distance: searchDistance ? searchDistance : 100, 
               maxPatternLength: 32,
               minMatchCharLength: 1,
               isCaseSensitive: false, 
@@ -2015,6 +2022,29 @@
     
     
     
+    
+        
+        <li class="sidebar-recent">
+            <a href="/posts/default-state-of-mind/" class="sidebar-recent__title p1">心灵的缺省状态</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/purpose-and-path-of-life/" class="sidebar-recent__title p1">人生的目的与道路</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/as-chinese-should-i-have-children/" class="sidebar-recent__title p1">我作为一个中国人到底该不该要孩子</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/inspiration-on-the-paintings-of-chagall/" class="sidebar-recent__title p1">看夏加尔的画有感</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/roads/" class="sidebar-recent__title p1">道路</a>
+        </li>
+        
+        <hr class="hr-fade sidebar-hr" />
     
 </ul>
 <div class="taxo-root">

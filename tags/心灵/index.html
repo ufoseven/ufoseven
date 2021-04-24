@@ -663,6 +663,12 @@
     
     var enableSearch = JSON.parse("true");
     
+    var searchDistance = JSON.parse("100");
+    
+    var searchThreshold = JSON.parse("0.4");
+    
+    var searchContent = JSON.parse("true");
+    
     var enableSearchHighlight = JSON.parse("true");
     
     var searchResultPosition = JSON.parse("\"main\"");
@@ -686,12 +692,13 @@
         xhr.onload = function () {
           if (xhr.status === 200) {
             fuse = new Fuse(JSON.parse(xhr.response.toString('utf-8')), {
-              keys: sectionType.includes('publication') ? ['title', 'abstract'] : ['title', 'description', 'content'],
+              keys: sectionType.includes('publication') ? ['title', 'abstract'] : 
+                searchContent ? ['title', 'description', 'content'] : ['title', 'description'],
               includeMatches: enableSearchHighlight,
               shouldSort: true, 
-              threshold: 0.4, 
+              threshold: searchThreshold ? searchThreshold : 0.4, 
               location: 0, 
-              distance: 100, 
+              distance: searchDistance ? searchDistance : 100, 
               maxPatternLength: 32,
               minMatchCharLength: 1,
               isCaseSensitive: false, 
@@ -2044,6 +2051,29 @@
     
     
     
+    
+        
+        <li class="sidebar-recent">
+            <a href="/posts/default-state-of-mind/" class="sidebar-recent__title p1">心灵的缺省状态</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/inner-experience/" class="sidebar-recent__title p1">心灵的阅历</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/sensibility-rationality-mind/" class="sidebar-recent__title p1">感性·理性·心</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/repetition-and-feelings/" class="sidebar-recent__title p1">重复与感受</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/the-mind-is-unpredictable/" class="sidebar-recent__title p1">心灵是不可预测的</a>
+        </li>
+        
+        <hr class="hr-fade sidebar-hr" />
     
 </ul>
 <div class="taxo-root">

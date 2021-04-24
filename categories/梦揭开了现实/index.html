@@ -663,6 +663,12 @@
     
     var enableSearch = JSON.parse("true");
     
+    var searchDistance = JSON.parse("100");
+    
+    var searchThreshold = JSON.parse("0.4");
+    
+    var searchContent = JSON.parse("true");
+    
     var enableSearchHighlight = JSON.parse("true");
     
     var searchResultPosition = JSON.parse("\"main\"");
@@ -686,12 +692,13 @@
         xhr.onload = function () {
           if (xhr.status === 200) {
             fuse = new Fuse(JSON.parse(xhr.response.toString('utf-8')), {
-              keys: sectionType.includes('publication') ? ['title', 'abstract'] : ['title', 'description', 'content'],
+              keys: sectionType.includes('publication') ? ['title', 'abstract'] : 
+                searchContent ? ['title', 'description', 'content'] : ['title', 'description'],
               includeMatches: enableSearchHighlight,
               shouldSort: true, 
-              threshold: 0.4, 
+              threshold: searchThreshold ? searchThreshold : 0.4, 
               location: 0, 
-              distance: 100, 
+              distance: searchDistance ? searchDistance : 100, 
               maxPatternLength: 32,
               minMatchCharLength: 1,
               isCaseSensitive: false, 
@@ -2184,6 +2191,29 @@
     
     
     
+    
+        
+        <li class="sidebar-recent">
+            <a href="/posts/masked-party-on-eve-of-storm/" class="sidebar-recent__title p1">暴风雨前夕的假面派对</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/dream-of-apple-tree-blossoms/" class="sidebar-recent__title p1">梦到苹果花开</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/tide-over-levee/" class="sidebar-recent__title p1">海水漫过堤坝</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/dont-know-where-to-go/" class="sidebar-recent__title p1">不知所往</a>
+        </li>
+        
+        <li class="sidebar-recent">
+            <a href="/posts/on-the-way-home/" class="sidebar-recent__title p1">回家路上</a>
+        </li>
+        
+        <hr class="hr-fade sidebar-hr" />
     
 </ul>
 <div class="taxo-root">
