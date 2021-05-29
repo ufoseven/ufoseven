@@ -12,19 +12,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2006 - {year} 幽浮七号</copyright>
-    <lastBuildDate>Tue, 20 Apr 2021 22:32:07 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 May 2021 05:02:16 +0800</lastBuildDate>
     
         <atom:link href="https://ufoseven.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>IT 相关</title>
-        <link>https://ufoseven.github.io/categories/it-%E7%9B%B8%E5%85%B3/</link>
-        <pubDate>Tue, 20 Apr 2021 22:32:07 +0800</pubDate>
+        <title>偶尔写写诗</title>
+        <link>https://ufoseven.github.io/categories/%E5%81%B6%E5%B0%94%E5%86%99%E5%86%99%E8%AF%97/</link>
+        <pubDate>Sun, 30 May 2021 05:02:16 +0800</pubDate>
         
         
-        <guid>https://ufoseven.github.io/categories/it-%E7%9B%B8%E5%85%B3/</guid>
+        <guid>https://ufoseven.github.io/categories/%E5%81%B6%E5%B0%94%E5%86%99%E5%86%99%E8%AF%97/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Seven</dc:creator>
@@ -37,12 +37,12 @@
       </item>
       
       <item>
-        <title>偶尔写写诗</title>
-        <link>https://ufoseven.github.io/categories/%E5%81%B6%E5%B0%94%E5%86%99%E5%86%99%E8%AF%97/</link>
-        <pubDate>Tue, 06 Apr 2021 04:52:39 +0800</pubDate>
+        <title>IT 相关</title>
+        <link>https://ufoseven.github.io/categories/it-%E7%9B%B8%E5%85%B3/</link>
+        <pubDate>Tue, 20 Apr 2021 22:32:07 +0800</pubDate>
         
         
-        <guid>https://ufoseven.github.io/categories/%E5%81%B6%E5%B0%94%E5%86%99%E5%86%99%E8%AF%97/</guid>
+        <guid>https://ufoseven.github.io/categories/it-%E7%9B%B8%E5%85%B3/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Seven</dc:creator>
