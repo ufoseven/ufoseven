@@ -12,11 +12,59 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2006 - {year} 幽浮七号</copyright>
-    <lastBuildDate>Sun, 30 May 2021 05:02:16 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jun 2021 20:32:07 +0800</lastBuildDate>
     
         <atom:link href="https://ufoseven.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Firefox 89 的全新 Proton 界面</title>
+        <link>https://ufoseven.github.io/posts/firefox-89-new-proton-ui/</link>
+        <pubDate>Thu, 03 Jun 2021 20:32:07 +0800</pubDate>
+        
+        <atom:modified>Thu, 03 Jun 2021 20:32:07 +0800</atom:modified>
+        <guid>https://ufoseven.github.io/posts/firefox-89-new-proton-ui/</guid>
+        <description>今天发现 Firefox 更新到了 89.0 版本，采用了全新设计的 Proton 界面。 如果嫌新 UI 占空间想使用紧凑布局，只需在地址栏键入 about:config，选择接受风险并继</description>
+        <content:encoded>&lt;p&gt;今天发现 Firefox 更新到了 89.0 版本，采用了全新设计的 Proton 界面。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;如果嫌新 UI 占空间想使用紧凑布局，只需在地址栏键入 about:config，选择接受风险并继续，然后搜索 browser.compactmode.show，将值切换为 true，即可在「定制工具栏」界面自由切换布局。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;如果不喜欢新的 Proton 界面 ，可以将 browser.proton.enabled 的值切换为 false，具体操作步骤同上，即可关闭新 UI 恢复到旧 UI。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;参考：&lt;a href=&#34;https://v2ex.com/t/780758&#34;&gt;Firefox 89 更新了设计语言，感觉不错&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+        <dc:creator>Seven</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>杂记</category>
+            
+          
+            
+              <category>Firefox</category>
+            
+          
+            
+              <category>UI</category>
+            
+          
+        
+        
+          
+            
+              <category>IT 相关</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>黑暗将至</title>
