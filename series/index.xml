@@ -12,11 +12,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2006 - {year} 幽浮七号</copyright>
-    <lastBuildDate>Sun, 30 May 2021 05:02:16 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jul 2021 16:15:20 +0800</lastBuildDate>
     
         <atom:link href="https://ufoseven.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>小说集</title>
+        <link>https://ufoseven.github.io/series/%E5%B0%8F%E8%AF%B4%E9%9B%86/</link>
+        <pubDate>Sat, 17 Jul 2021 16:15:20 +0800</pubDate>
+        
+        
+        <guid>https://ufoseven.github.io/series/%E5%B0%8F%E8%AF%B4%E9%9B%86/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Seven</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>诗歌集</title>
@@ -43,24 +61,6 @@
         
         
         <guid>https://ufoseven.github.io/series/%E9%97%BB%E9%81%93%E9%9B%86/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>Seven</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>小说集</title>
-        <link>https://ufoseven.github.io/series/%E5%B0%8F%E8%AF%B4%E9%9B%86/</link>
-        <pubDate>Mon, 11 Jan 2021 23:32:20 +0800</pubDate>
-        
-        
-        <guid>https://ufoseven.github.io/series/%E5%B0%8F%E8%AF%B4%E9%9B%86/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Seven</dc:creator>
