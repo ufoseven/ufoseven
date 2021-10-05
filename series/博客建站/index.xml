@@ -32,11 +32,11 @@
 &lt;li&gt;打开 Git Bash 进入 Hexo 站点目录。具体操作是，打开 Hexo 博客目录，然后在此处单击右键调用相关菜单打开 Git Bash 或终端。&lt;/li&gt;
 &lt;li&gt;在 Git Bash 或终端中执行命令：&lt;/li&gt;
 &lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;hexo clean
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hexo clean
 &lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;4&#34;&gt;
 &lt;li&gt;在 Git Bash 或终端中执行命令：&lt;/li&gt;
 &lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;hexo d -g
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hexo d -g
 &lt;/code&gt;&lt;/pre&gt;</content:encoded>
         <dc:creator>Seven</dc:creator>
         
@@ -85,10 +85,10 @@
 &lt;h4 id=&#34;1-安装时卡在第2步初始化配置页面&#34;&gt;&lt;strong&gt;1. 安装时卡在第2步初始化配置页面&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;（1）卡在数据库连接页面，提示“对不起，无法连接数据库，请先检查数据库配置再继续进行安装”。解决方法是，把数据库密码重新填写一遍然后继续进行就可以了，只刷新不重新填写数据库密码是不管用的。并不是密码输入错误，我先后试了好几遍。&lt;/p&gt;
 &lt;p&gt;（2）卡在数据库配置页面，提示“确认您的配置 数据库配置”。这个时候不要关闭当前页面，在 install.php 文件的第56行加入如下代码，然后刷新卡住的数据库配置页面即可解决问题。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;ob_start();
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;ob_start();
 &lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;2-开启地址重写&#34;&gt;&lt;strong&gt;2. 开启地址重写&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;安装完毕，在 Typecho 后台永久链接设置里开启地址重写功能后，除了后台和主页外其它页面均出现404错误，我所在主机服务器是 Apache，解决方法是，在网站根目录下新建 .htaccess，输入如下内容：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;RewriteEngine On
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;RewriteEngine On
 RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
@@ -101,7 +101,7 @@ RewriteRule ^(.*)$ index.php [L,E=PATH_INFO:$1]
 （4）打开 Typecho 数据库，删除所有第（2）步中导入的项目（即wp_开头的项目）。&lt;/p&gt;
 &lt;h4 id=&#34;4-为-typecho-博客添加-cloudflare-cdn&#34;&gt;&lt;strong&gt;4. 为 Typecho 博客添加 Cloudflare CDN&lt;/strong&gt;&lt;/h4&gt;
 &lt;p&gt;（1）我在一个不支持 SSL 的主机空间试过，Typecho 博客添加 Cloudflare CDN 并启用 https 之后，后台管理页面会打不开（如果主机空间支持 SSL 则没有问题），解决方法是，编辑站点根目录下的文件 config.inc.php 加入下面一行配置：&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;/** 开启 HTTPS */
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;/** 开启 HTTPS */
 define(&#39;__TYPECHO_SECURE__&#39;,true);
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;这样后台管理页面就能打开了。&lt;/p&gt;
 &lt;p&gt;（2）添加 Cloudflare CDN 后，评论 IP 显示的是 Cloudflare CDN 的代理 IP 而不是访客真实 IP，显示访客真实 IP 的方法见这篇文章：&lt;a href=&#34;https://www.typecho.wiki/archives/typecho-configuring-cdn-to-get-visitors-real-ip.html&#34;&gt;Typecho 配置 CDN 后获取访客真实 IP&lt;/a&gt;。&lt;/p&gt;

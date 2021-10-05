@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2006 - {year} 幽浮七号</copyright>
-    <lastBuildDate>Sat, 17 Jul 2021 16:15:20 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 05 Oct 2021 07:15:20 +0800</lastBuildDate>
     
         <atom:link href="https://ufoseven.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,10 +21,28 @@
       <item>
         <title>虚构而已</title>
         <link>https://ufoseven.github.io/categories/%E8%99%9A%E6%9E%84%E8%80%8C%E5%B7%B2/</link>
-        <pubDate>Sat, 17 Jul 2021 16:15:20 +0800</pubDate>
+        <pubDate>Tue, 05 Oct 2021 07:15:20 +0800</pubDate>
         
         
         <guid>https://ufoseven.github.io/categories/%E8%99%9A%E6%9E%84%E8%80%8C%E5%B7%B2/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Seven</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>菩提树下</title>
+        <link>https://ufoseven.github.io/categories/%E8%8F%A9%E6%8F%90%E6%A0%91%E4%B8%8B/</link>
+        <pubDate>Sat, 10 Jul 2021 16:28:09 +0800</pubDate>
+        
+        
+        <guid>https://ufoseven.github.io/categories/%E8%8F%A9%E6%8F%90%E6%A0%91%E4%B8%8B/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Seven</dc:creator>
@@ -61,24 +79,6 @@
         
         
         <guid>https://ufoseven.github.io/categories/%E5%81%B6%E5%B0%94%E5%86%99%E5%86%99%E8%AF%97/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>Seven</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>菩提树下</title>
-        <link>https://ufoseven.github.io/categories/%E8%8F%A9%E6%8F%90%E6%A0%91%E4%B8%8B/</link>
-        <pubDate>Sun, 28 Feb 2021 20:32:22 +0800</pubDate>
-        
-        
-        <guid>https://ufoseven.github.io/categories/%E8%8F%A9%E6%8F%90%E6%A0%91%E4%B8%8B/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Seven</dc:creator>

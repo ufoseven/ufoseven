@@ -32,11 +32,11 @@
 &lt;li&gt;打开 Git Bash 进入 Hexo 站点目录。具体操作是，打开 Hexo 博客目录，然后在此处单击右键调用相关菜单打开 Git Bash 或终端。&lt;/li&gt;
 &lt;li&gt;在 Git Bash 或终端中执行命令：&lt;/li&gt;
 &lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;hexo clean
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hexo clean
 &lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;4&#34;&gt;
 &lt;li&gt;在 Git Bash 或终端中执行命令：&lt;/li&gt;
 &lt;/ol&gt;
-&lt;pre&gt;&lt;code&gt;hexo d -g
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hexo d -g
 &lt;/code&gt;&lt;/pre&gt;</content:encoded>
         <dc:creator>Seven</dc:creator>
         
