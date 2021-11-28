@@ -12,11 +12,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&amp;copy; 2006 - {year} 幽浮七号</copyright>
-    <lastBuildDate>Mon, 15 Nov 2021 23:56:23 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Nov 2021 19:38:25 +0800</lastBuildDate>
     
         <atom:link href="https://ufoseven.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>菩提树下</title>
+        <link>https://ufoseven.github.io/categories/%E8%8F%A9%E6%8F%90%E6%A0%91%E4%B8%8B/</link>
+        <pubDate>Tue, 23 Nov 2021 19:38:25 +0800</pubDate>
+        
+        
+        <guid>https://ufoseven.github.io/categories/%E8%8F%A9%E6%8F%90%E6%A0%91%E4%B8%8B/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>Seven</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>随便写写</title>
@@ -43,24 +61,6 @@
         
         
         <guid>https://ufoseven.github.io/categories/%E8%99%9A%E6%9E%84%E8%80%8C%E5%B7%B2/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>Seven</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>菩提树下</title>
-        <link>https://ufoseven.github.io/categories/%E8%8F%A9%E6%8F%90%E6%A0%91%E4%B8%8B/</link>
-        <pubDate>Sat, 10 Jul 2021 16:28:09 +0800</pubDate>
-        
-        
-        <guid>https://ufoseven.github.io/categories/%E8%8F%A9%E6%8F%90%E6%A0%91%E4%B8%8B/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>Seven</dc:creator>
