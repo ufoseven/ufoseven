@@ -98,7 +98,7 @@ RewriteRule ^(.*)$ index.php [L,E=PATH_INFO:$1]
 &lt;h4 id="4-为-typecho-博客添加-cloudflare-cdn">&lt;strong>4. 为 Typecho 博客添加 Cloudflare CDN&lt;/strong>&lt;/h4>
 &lt;p>（1）我在一个不支持 SSL 的主机空间试过，Typecho 博客添加 Cloudflare CDN 并启用 https 之后，后台管理页面会打不开（如果主机空间支持 SSL 则没有问题），解决方法是，编辑站点根目录下的文件 config.inc.php 加入下面一行配置：&lt;/p>
 &lt;pre tabindex="0">&lt;code>/** 开启 HTTPS */
-define('__TYPECHO_SECURE__',true);
+define(&amp;#39;__TYPECHO_SECURE__&amp;#39;,true);
 &lt;/code>&lt;/pre>&lt;p>这样后台管理页面就能打开了。&lt;/p>
 &lt;p>（2）添加 Cloudflare CDN 后，评论 IP 显示的是 Cloudflare CDN 的代理 IP 而不是访客真实 IP，显示访客真实 IP 的方法见这篇文章：&lt;a href="https://www.typecho.wiki/archives/typecho-configuring-cdn-to-get-visitors-real-ip.html">Typecho 配置 CDN 后获取访客真实 IP&lt;/a>。&lt;/p></content:encoded><dc:creator>Seven</dc:creator><category>杂记</category><category>Typecho</category><category>WordPress</category><category>Cloudflare</category><category>CDN</category><category>SSL</category><category>IT 相关</category><category>博客建站</category></item><item><title>WordPress 使用 Cloudflare 遇到的几个问题及解决方法</title><link>https://ufoseven.github.io/posts/wordpress-cloudflare-cdn-ssl/</link><pubDate>Sat, 22 Sep 2018 15:01:21 +0800</pubDate><atom:modified>Sat, 22 Sep 2018 15:01:21 +0800</atom:modified><guid>https://ufoseven.github.io/posts/wordpress-cloudflare-cdn-ssl/</guid><description>最近使用 Cloudflare 为WordPress博客添加了免费 CDN 和 SSL 服务，在此过程中遇到的一些问题和解决方法记录如下。 Cloudflare Flexible SSL 开启 Always use HTTPS 后导致 WordPress 网站无限循环重定</description><content:encoded>&lt;p>最近使用 Cloudflare 为WordPress博客添加了免费 CDN 和 SSL 服务，在此过程中遇到的一些问题和解决方法记录如下。&lt;/p>
 &lt;ul>
